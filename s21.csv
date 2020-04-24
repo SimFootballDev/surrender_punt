@@ -1,0 +1,1080 @@
+,teamID,Q,time,totTime,down,distance,side,yard,play,gameID,S,homeTeam,awayTeam,teamPoss,dist2goal,awayScore,homeScore
+0,1,1,15:00,3600,,,BAL,30,"Brand, F. kicks off.",5154,21,BAL,YKW,BAL,70,0,0
+1,2,1,15:00,3600,,,,,The kick sails into the endzone.,5154,21,BAL,YKW,YKW,,0,0
+2,2,1,15:00,3600,,,,,"Snuggles, J. takes it out of the endzone!",5154,21,BAL,YKW,YKW,,0,0
+3,2,1,15:00,3600,,,YKW,9,"Kickoff of 74 yards. Returned by Snuggles, J. for 9 yards.",5154,21,BAL,YKW,YKW,91,0,0
+4,2,1,14:55,3595,1,10,YKW,9,"Rush by Hanyadi, M. for 3 yds. Tackle by Nikko, G..",5154,21,BAL,YKW,YKW,91,0,0
+5,2,1,14:37,3577,1,10,YKW,22,"Hawks Penalty on Beaner (R), S.: Tripping.",5154,21,BAL,YKW,YKW,78,0,0
+6,2,1,14:26,3566,1,10,YKW,22,"Rush by Hanyadi, M. for 0 yds. Tackle by Baldari, F..",5154,21,BAL,YKW,YKW,78,0,0
+7,2,1,14:13,3553,2,10,YKW,22,"Pass by Bigsby, C., complete to Gordon, R. for 26 yds. Tackle by Marston, J..",5154,21,BAL,YKW,YKW,78,0,0
+8,2,1,13:22,3502,1,10,YKW,48,"Pass by Bigsby, C., complete to Rodriguez, B. for 8 yds. Tackle by Uchiha, L..",5154,21,BAL,YKW,YKW,52,0,0
+9,2,1,12:56,3476,2,2,BAL,43,"Rush by Hanyadi, M. for 8 yds. Tackle by Troyski, X..",5154,21,BAL,YKW,YKW,43,0,0
+10,2,1,12:29,3449,1,10,BAL,35,"Pass by Bigsby, C., complete to Hanyadi, M. for 17 yds. Tackle by Vans, R..",5154,21,BAL,YKW,YKW,35,0,0
+11,2,1,11:44,3404,1,10,BAL,18,"Pass by Bigsby, C., complete to Gordon, R. for 18 yds.",5154,21,BAL,YKW,YKW,18,0,0
+12,2,1,11:13,3373,,,,,TOUCHDOWN! (Smalls (R) kick good),5154,21,BAL,YKW,YKW,,7,0
+13,2,1,11:13,3373,,,YKW,30,"Smalls (R), D. kicks off.",5154,21,BAL,YKW,YKW,70,7,0
+14,1,1,11:13,3373,,,,,"Green, W. takes it down the right side.",5154,21,BAL,YKW,BAL,,7,0
+15,1,1,11:13,3373,,,,,"Green, W. has blockers in front of him.",5154,21,BAL,YKW,BAL,,7,0
+16,1,1,11:13,3373,,,,,It's a footrace!,5154,21,BAL,YKW,BAL,,7,0
+17,1,1,11:13,3373,,,,,A 99 yard return.,5154,21,BAL,YKW,BAL,,7,0
+18,1,1,10:56,3356,,,,,TOUCHDOWN! (Brand kick good),5154,21,BAL,YKW,BAL,,7,7
+19,1,1,10:56,3356,,,BAL,30,"Brand, F. kicks off.",5154,21,BAL,YKW,BAL,70,7,7
+20,2,1,10:56,3356,,,YKW,18,"Kickoff of 69 yards. Returned by Swift, N. for 17 yards.",5154,21,BAL,YKW,YKW,82,7,7
+21,2,1,10:49,3349,1,10,YKW,18,"Pass by Bigsby, C. to Rodriguez, B. is incomplete. Broken up by Marston, J..",5154,21,BAL,YKW,YKW,82,7,7
+22,2,1,10:43,3343,2,10,YKW,18,"Rush by Hanyadi, M. for 3 yds. Tackle by Baldari, F..",5154,21,BAL,YKW,YKW,82,7,7
+23,2,1,10:34,3334,3,7,YKW,21,"Pass by Bigsby, C. to Gordon, R. falls incomplete.",5154,21,BAL,YKW,YKW,79,7,7
+24,1,1,10:28,3328,4,7,BAL,21,"Punt by Smalls (R), D. of 64 yards.",5154,21,BAL,YKW,BAL,79,7,7
+25,1,1,10:28,3328,,,,,"Returned by Green, W. for 11 yards.",5154,21,BAL,YKW,BAL,,7,7
+26,1,1,10:14,3314,1,10,BAL,26,"Rush by Reed, A. for a short gain. Tackle by Kroustis, G..",5154,21,BAL,YKW,BAL,74,7,7
+27,1,1,9:59,3299,2,10,BAL,26,"Rush by Reed, A. for a short gain. Tackle by Maulolo, C..",5154,21,BAL,YKW,BAL,74,7,7
+28,1,1,9:39,3279,3,10,BAL,26,"Rush by Williams, D. for 5 yds. Tackle by Selich, A..",5154,21,BAL,YKW,BAL,74,7,7
+29,2,1,9:19,3259,4,5,YKW,31,"Punt by Brand, F. of 68 yards. No return.",5154,21,BAL,YKW,YKW,69,7,7
+30,2,1,9:13,3253,1,10,YKW,1,"Rush by Drake, O. for 15 yds. Tackle by Green, W..",5154,21,BAL,YKW,YKW,99,7,7
+31,2,1,8:43,3223,1,10,YKW,16,"Pass by Bigsby, C., complete to Gordon, R. for 8 yds. Tackle by Marston, J..",5154,21,BAL,YKW,YKW,84,7,7
+32,2,1,8:12,3192,2,2,YKW,24,"Pass by Bigsby, C., complete to Swift, N. for 12 yds. Tackle by Acho, M..",5154,21,BAL,YKW,YKW,76,7,7
+33,2,1,7:29,3149,1,10,YKW,36,"Rush by Hanyadi, M. for 0 yds. Tackle by Baldari, F..",5154,21,BAL,YKW,YKW,64,7,7
+34,2,1,7:20,3140,2,10,YKW,36,"Pass by Bigsby, C. to Hanyadi, M. falls incomplete.",5154,21,BAL,YKW,YKW,64,7,7
+35,2,1,7:14,3134,3,10,YKW,36,"Pass by Bigsby, C., complete to Z, D. for 17 yds. Tackle by Marston, J..",5154,21,BAL,YKW,YKW,64,7,7
+36,2,1,6:20,3080,1,10,BAL,47,"Rush by Drake, O. for 7 yds. Tackle by Vans, R..",5154,21,BAL,YKW,YKW,47,7,7
+37,2,1,6:02,3062,2,3,BAL,40,"Pass by Bigsby, C. to Swift, N. falls incomplete.",5154,21,BAL,YKW,YKW,40,7,7
+38,2,1,5:57,3057,3,3,BAL,40,"Rush by Hanyadi, M. for 2 yds. Tackle by Troyski, X..",5154,21,BAL,YKW,YKW,40,7,7
+39,2,1,5:42,3042,1,10,BAL,33,"Hawks Penalty on Z, D.: Encroachment.",5154,21,BAL,YKW,YKW,33,7,7
+40,2,1,5:42,3042,1,10,BAL,33,"Pass by Bigsby, C., complete to Swift, N. for 10 yds. Tackle by Acho, M..",5154,21,BAL,YKW,YKW,33,7,7
+41,2,1,5:07,3007,1,5,BAL,18,"Hawks Penalty on Beaner (R), S.: Offsides.",5154,21,BAL,YKW,YKW,18,7,7
+42,2,1,5:07,3007,1,5,BAL,18,"Rush by Hanyadi, M. for 6 yds. Tackle by Vans, R..",5154,21,BAL,YKW,YKW,18,7,7
+43,2,1,4:48,2988,1,6,BAL,6,"Hawks Penalty on Z, D.: Unsportsmanlike Conduct.",5154,21,BAL,YKW,YKW,6,7,7
+44,2,1,4:33,2973,1,6,BAL,6,"Bigsby, C. SACKED by Fabricio Baldari - DE for -9 yds.",5154,21,BAL,YKW,YKW,6,7,7
+45,2,1,3:58,2938,2,15,BAL,15,"Pass by Bigsby, C., complete to Gordon, R. for 14 yds. Tackle by Marston, J..",5154,21,BAL,YKW,YKW,15,7,7
+46,2,1,3:23,2903,3,1,BAL,1,Rush by Mathias Hanyadi for 1 yds.,5154,21,BAL,YKW,YKW,1,7,7
+47,2,1,3:12,2892,,,,,TOUCHDOWN! (Smalls (R) kick good),5154,21,BAL,YKW,YKW,,14,7
+48,2,1,3:12,2892,,,YKW,30,"Smalls (R), D. kicks off.",5154,21,BAL,YKW,YKW,70,14,7
+49,1,1,3:12,2892,,,,,The kick sails into the endzone.,5154,21,BAL,YKW,BAL,,14,7
+50,1,1,3:12,2892,,,,,"Acho, M. takes it out of the endzone!",5154,21,BAL,YKW,BAL,,14,7
+51,1,1,3:12,2892,,,BAL,12,"Kickoff of 72 yards. Returned by Acho, M. for 12 yards.",5154,21,BAL,YKW,BAL,88,14,7
+52,1,1,3:07,2887,1,10,BAL,12,"Rush by Williams, D. for 0 yds. Tackle by Selich, A..",5154,21,BAL,YKW,BAL,88,14,7
+53,1,1,2:46,2866,2,10,BAL,12,"Pass by Havran, C., complete to Maddox, E. for 5 yds. Tackle by Snuggles, J..",5154,21,BAL,YKW,BAL,88,14,7
+54,1,1,2:11,2831,3,5,BAL,17,"Rush by Havran, C. for 12 yds. Tackle by Grithead, D..",5154,21,BAL,YKW,BAL,83,14,7
+55,1,1,1:41,2801,1,10,BAL,29,"Rush by Reed, A. for 6 yds. Tackle by Lejune, L..",5154,21,BAL,YKW,BAL,71,14,7
+56,1,1,1:17,2777,2,4,BAL,35,"Rush by Reed, A. for 4 yds. Tackle by Grithead, D..",5154,21,BAL,YKW,BAL,65,14,7
+57,1,1,0:51,2751,1,10,BAL,39,"Rush by Williams, D. for 5 yds. Tackle by Quaid (R), D..",5154,21,BAL,YKW,BAL,61,14,7
+58,1,1,0:26,2726,2,5,BAL,44,"Rush by Williams, D. for 1 yds. Tackle by Alexander, N..",5154,21,BAL,YKW,BAL,56,14,7
+59,1,1,0:19,2719,3,4,BAL,45,"Rush by Reed, A. for 6 yds. Tackle by Selich, A..",5154,21,BAL,YKW,BAL,55,14,7
+60,1,1,0:00,2700,1,10,YKW,48,"Rush by Reed, A. for 6 yds. Tackle by Quaid (R), D..",5154,21,BAL,YKW,BAL,48,14,7
+61,1,2,15:00,2700,2,4,YKW,42,"Pass by Havran, C., complete to Williams, D. for 5 yds. Tackle by Quaid (R), D..",5154,21,BAL,YKW,BAL,42,14,7
+62,1,2,14:29,2669,1,10,YKW,37,"Pass by Havran, C., complete to Quinn, A. for 8 yds. Tackle by Grithead, D..",5154,21,BAL,YKW,BAL,37,14,7
+63,1,2,13:53,2633,2,2,YKW,29,"Pass by Havran, C., complete to Reed, A. for 2 yds. Tackle by Lejune, L..",5154,21,BAL,YKW,BAL,29,14,7
+64,1,2,13:27,2607,1,10,YKW,27,"Pass by Havran, C., complete to Quinn, A. for 8 yds. Tackle by Virtanen, M..",5154,21,BAL,YKW,BAL,27,14,7
+65,1,2,12:47,2567,2,2,YKW,19,"Havran, C. throws the ball away to avoid the sack.",5154,21,BAL,YKW,BAL,19,14,7
+66,1,2,12:23,2543,3,2,YKW,19,"Pass by Havran, C., complete to Williams, D. for 11 yds. Tackle by Snuggles, J..",5154,21,BAL,YKW,BAL,19,14,7
+67,1,2,11:44,2504,1,8,YKW,8,"Pass by Havran, C., complete to Reed, A. for 7 yds. Tackle by Lejune, L..",5154,21,BAL,YKW,BAL,8,14,7
+68,1,2,10:57,2457,2,1,YKW,1,"Pass by Havran, C. to Quinn, A. falls incomplete.",5154,21,BAL,YKW,BAL,1,14,7
+69,1,2,10:51,2451,3,1,YKW,1,"Rush by Williams, D. for a short gain. Tackle by Alexander, N..",5154,21,BAL,YKW,BAL,1,14,7
+70,1,2,10:31,2431,4,1,YKW,1,"18 yard FG by Brand, F. is good.",5154,21,BAL,YKW,BAL,1,14,10
+71,2,2,10:31,2431,,,,,"Kickoff by Brand, F. deep into the endzone. Swift, N. kneels for a touchback.",5154,21,BAL,YKW,YKW,,14,10
+72,2,2,10:31,2431,1,10,YKW,20,"Rush by Hanyadi, M. for 4 yds. Tackle by Nikko, G.. FUMBLE by Hanyadi, M., recovered by Hanyadi, M..",5154,21,BAL,YKW,YKW,80,14,10
+73,2,2,10:07,2407,2,6,YKW,24,"Bigsby, C. SACKED by Logan Uchiha - SS for -6 yds.",5154,21,BAL,YKW,YKW,76,14,10
+74,2,2,9:39,2379,3,12,YKW,18,"Pass by Bigsby, C., complete to Swift, N. for 20 yds. Tackle by Green, W..",5154,21,BAL,YKW,YKW,82,14,10
+75,2,2,9:00,2340,1,10,YKW,38,"Pass by Bigsby, C. to Swift, N. was dropped! Incomplete.",5154,21,BAL,YKW,YKW,62,14,10
+76,2,2,8:53,2333,2,10,YKW,38,"Bigsby, C. SACKED by Terry Taffy - DE for -6 yds.",5154,21,BAL,YKW,YKW,62,14,10
+77,2,2,8:32,2312,3,16,YKW,32,"Pass by Bigsby, C., complete to Hanyadi, M. for 4 yds. Tackle by Vans, R..",5154,21,BAL,YKW,YKW,68,14,10
+78,1,2,8:01,2281,4,12,BAL,36,"Punt by Smalls (R), D. of 64 yards. Touchback.",5154,21,BAL,YKW,BAL,64,14,10
+79,1,2,7:56,2276,1,10,BAL,20,"Rush by Reed, A. for 6 yds. Tackle by Grithead, D..",5154,21,BAL,YKW,BAL,80,14,10
+80,1,2,7:29,2249,2,4,BAL,26,"Rush by Reed, A. for a short gain. Tackle by Maulolo, C..",5154,21,BAL,YKW,BAL,74,14,10
+81,1,2,7:10,2230,3,4,BAL,26,"Pass by Havran, C., complete to Reed, A. for 19 yds. Tackle by Lejune, L..",5154,21,BAL,YKW,BAL,74,14,10
+82,1,2,6:18,2178,1,10,BAL,45,"Rush by Williams, D. for a short gain. Tackle by Maulolo, C..",5154,21,BAL,YKW,BAL,55,14,10
+83,1,2,6:04,2164,2,10,BAL,45,"Pass by Havran, C. to Reed, A. falls incomplete.",5154,21,BAL,YKW,BAL,55,14,10
+84,1,2,6:01,2161,3,10,BAL,45,"Pass by Havran, C., complete to Williams, D. for 5 yds. Tackle by Grithead, D..",5154,21,BAL,YKW,BAL,55,14,10
+85,2,2,5:37,2137,4,5,YKW,50,"Punt by Brand, F. of 50 yards. Touchback.",5154,21,BAL,YKW,YKW,50,14,10
+86,2,2,5:34,2134,1,10,YKW,20,"Pass by Bigsby, C. to Swift, N. is incomplete. Broken up by Acho, M..",5154,21,BAL,YKW,YKW,80,14,10
+87,2,2,5:27,2127,2,20,YKW,10,"Wraiths Penalty on Drake, O.: Clipping.",5154,21,BAL,YKW,YKW,90,14,10
+88,2,2,4:53,2093,2,20,YKW,10,"Rush by Drake, O. for 3 yds. Tackle by Nikko, G..",5154,21,BAL,YKW,YKW,90,14,10
+89,2,2,4:36,2076,3,17,YKW,13,"Pass by Bigsby, C., complete to Rodriguez, B. for 6 yds. Tackle by Uchiha, L..",5154,21,BAL,YKW,YKW,87,14,10
+90,1,2,4:10,2050,4,11,BAL,19,"Punt by Smalls (R), D. of 43 yards. No return.",5154,21,BAL,YKW,BAL,81,14,10
+91,1,2,4:03,2043,1,10,BAL,38,"Rush by Williams, D. for 6 yds. Tackle by Lejune, L..",5154,21,BAL,YKW,BAL,62,14,10
+92,1,2,3:35,2015,2,4,BAL,44,"Pass by Havran, C. to Kross (R), C. was dropped! Incomplete.",5154,21,BAL,YKW,BAL,56,14,10
+93,1,2,3:31,2011,3,4,BAL,44,"Rush by Williams, D. for 9 yds. Tackle by Selich, A..",5154,21,BAL,YKW,BAL,56,14,10
+94,1,2,3:03,1983,1,10,YKW,47,"Rush by Reed, A. for 2 yds. Tackle by Kroustis, G..",5154,21,BAL,YKW,BAL,47,14,10
+95,1,2,2:41,1961,2,8,YKW,45,"Rush by Williams, D. for 5 yds. Tackle by Selich, A..",5154,21,BAL,YKW,BAL,45,14,10
+96,1,2,2:17,1937,3,3,YKW,40,"Pass by Havran, C., complete to Reed, A. for 4 yds. Tackle by Lejune, L..",5154,21,BAL,YKW,BAL,40,14,10
+97,1,2,2:17,1937,1,10,YKW,36,Baltimore Hawks : Timeout,5154,21,BAL,YKW,BAL,36,14,10
+98,1,2,1:51,1911,1,10,YKW,36,"Pass by Havran, C., complete to Kross (R), C. for 19 yds. Tackle by Lejune, L..",5154,21,BAL,YKW,BAL,36,14,10
+99,1,2,1:51,1911,1,10,YKW,17,Baltimore Hawks : Timeout,5154,21,BAL,YKW,BAL,17,14,10
+100,1,2,1:15,1875,1,9,YKW,9,"Wraiths Penalty on Quaid (R), D.: Defensive Holding.",5154,21,BAL,YKW,BAL,9,14,10
+101,1,2,0:54,1854,1,9,YKW,9,"Pass by Havran, C., complete to Kross (R), C. for 9 yds.",5154,21,BAL,YKW,BAL,9,14,10
+102,1,2,0:17,1817,,,,,TOUCHDOWN! (Brand kick good),5154,21,BAL,YKW,BAL,,14,17
+103,1,2,0:17,1817,,,BAL,30,"Brand, F. kicks off.",5154,21,BAL,YKW,BAL,70,14,17
+104,2,2,0:17,1817,,,,,The kick sails into the endzone.,5154,21,BAL,YKW,YKW,,14,17
+105,2,2,0:17,1817,,,,,"Swift, N. takes it out of the endzone!",5154,21,BAL,YKW,YKW,,14,17
+106,2,2,0:17,1817,,,,,"Swift, N. takes it down the right side.",5154,21,BAL,YKW,YKW,,14,17
+107,2,2,0:17,1817,,,,,"Swift, N. is finally brought down. A 31 yard return.",5154,21,BAL,YKW,YKW,,14,17
+108,2,2,0:11,1811,1,10,YKW,31,"Pass by Bigsby, C., complete to Swift, N. for 11 yds. Tackle by Acho, M..",5154,21,BAL,YKW,YKW,69,14,17
+109,2,3,15:00,1800,,,YKW,30,"Smalls (R), D. kicks off.",5154,21,BAL,YKW,YKW,70,14,17
+110,1,3,15:00,1800,,,,,"Green, W. takes it down the right side.",5154,21,BAL,YKW,BAL,,14,17
+111,1,3,15:00,1800,,,,,"Green, W. sheds a tackler.",5154,21,BAL,YKW,BAL,,14,17
+112,1,3,15:00,1800,,,,,A 40 yard return.,5154,21,BAL,YKW,BAL,,14,17
+113,1,3,14:53,1793,1,10,BAL,48,"Pass by Havran, C., complete to Maddox, E. for 52 yds.",5154,21,BAL,YKW,BAL,52,14,17
+114,1,3,13:45,1725,,,,,TOUCHDOWN! (Brand kick good),5154,21,BAL,YKW,BAL,,14,24
+115,1,3,13:45,1725,,,BAL,30,"Brand, F. kicks off.",5154,21,BAL,YKW,BAL,70,14,24
+116,2,3,13:45,1725,,,,,The kick sails into the endzone.,5154,21,BAL,YKW,YKW,,14,24
+117,2,3,13:45,1725,,,,,"Snuggles, J. takes it out of the endzone!",5154,21,BAL,YKW,YKW,,14,24
+118,2,3,13:45,1725,,,,,"Snuggles, J. takes it down the right side.",5154,21,BAL,YKW,YKW,,14,24
+119,2,3,13:45,1725,,,,,"Snuggles, J. is finally brought down. A 32 yard return.",5154,21,BAL,YKW,YKW,,14,24
+120,2,3,13:36,1716,1,10,YKW,32,"Rush by Drake, O. for a short gain. Tackle by Z, D..",5154,21,BAL,YKW,YKW,68,14,24
+121,2,3,13:19,1699,2,10,YKW,32,"Pass by Bigsby, C. to Swift, N. falls incomplete.",5154,21,BAL,YKW,YKW,68,14,24
+122,2,3,13:16,1696,3,10,YKW,32,"Bigsby, C. SACKED by Sardine Beaner (R) - DT for -6 yds.",5154,21,BAL,YKW,YKW,68,14,24
+123,1,3,12:45,1665,4,16,BAL,26,"Punt by Smalls (R), D. of 36 yards. No return.",5154,21,BAL,YKW,BAL,74,14,24
+124,1,3,12:38,1658,1,10,BAL,37,"Rush by Reed, A. for 3 yds. Tackle by Virtanen, M..",5154,21,BAL,YKW,BAL,63,14,24
+125,1,3,12:17,1637,2,7,BAL,40,"Pass by Havran, C. to Reed, A. is incomplete. Broken up by Lejune, L..",5154,21,BAL,YKW,BAL,60,14,24
+126,1,3,12:14,1634,3,7,BAL,40,"Pass by Havran, C., complete to Quinn, A. for 11 yds. Tackle by Snuggles, J..",5154,21,BAL,YKW,BAL,60,14,24
+127,1,3,11:30,1590,1,10,YKW,48,"Rush by Reed, A. for 7 yds. Tackle by Lejune, L..",5154,21,BAL,YKW,BAL,48,14,24
+128,1,3,11:07,1567,2,3,YKW,41,"Rush by Reed, A. for 1 yds. Tackle by Maulolo, C.. FUMBLE by Reed, A., recovered by Havran, C..",5154,21,BAL,YKW,BAL,41,14,24
+129,1,3,10:47,1547,3,2,YKW,40,"Rush by Williams, D. for a short gain. Tackle by Kroustis, G..",5154,21,BAL,YKW,BAL,40,14,24
+130,1,3,10:34,1534,4,2,YKW,40,"Rush by Reed, A. for 11 yds. Tackle by Snuggles, J..",5154,21,BAL,YKW,BAL,40,14,24
+131,1,3,10:01,1501,1,10,YKW,29,"Rush by Williams, D. for 1 yds. Tackle by Kroustis, G..",5154,21,BAL,YKW,BAL,29,14,24
+132,1,3,9:40,1480,2,9,YKW,28,"Pass by Havran, C., complete to Maddox, E. for 28 yds.",5154,21,BAL,YKW,BAL,28,14,24
+133,1,3,8:58,1438,,,,,TOUCHDOWN! (Brand kick good),5154,21,BAL,YKW,BAL,,14,31
+134,1,3,8:58,1438,,,BAL,30,"Brand, F. kicks off.",5154,21,BAL,YKW,BAL,70,14,31
+135,2,3,8:58,1438,,,,,"Snuggles, J. takes it down the right side.",5154,21,BAL,YKW,YKW,,14,31
+136,2,3,8:58,1438,,,,,"Snuggles, J. sheds a tackler.",5154,21,BAL,YKW,YKW,,14,31
+137,2,3,8:58,1438,,,,,A 46 yard return.,5154,21,BAL,YKW,YKW,,14,31
+138,2,3,8:48,1428,1,15,YKW,48,"Wraiths Penalty on Pooky, S.: False Start.",5154,21,BAL,YKW,YKW,52,14,31
+139,2,3,8:48,1428,1,15,YKW,48,"Pass by Bigsby, C., complete to Drake, O. for -1 yds. Tackle by Troyski, X..",5154,21,BAL,YKW,YKW,52,14,31
+140,2,3,8:22,1402,2,16,YKW,47,"Rush by Hanyadi, M. for 13 yds. Tackle by Vans, R..",5154,21,BAL,YKW,YKW,53,14,31
+141,2,3,7:54,1374,3,3,BAL,40,"Rush by Hanyadi, M. for 5 yds. Tackle by Nikko, G..",5154,21,BAL,YKW,YKW,40,14,31
+142,2,3,7:36,1356,1,10,BAL,35,"Rush by Hanyadi, M. for a short gain. Tackle by Taffy, T..",5154,21,BAL,YKW,YKW,35,14,31
+143,2,3,7:22,1342,2,10,BAL,35,"Pass by Bigsby, C., complete to Hanyadi, M. for 1 yds. Tackle by Vans, R..",5154,21,BAL,YKW,YKW,35,14,31
+144,2,3,6:53,1313,3,9,BAL,34,"Pass by Bigsby, C., to Drake, O.. INTERCEPTION by Nikko, G. at the BAL - 31 yard line and returned for 14 yards.",5154,21,BAL,YKW,YKW,34,14,31
+145,1,3,6:31,1291,1,10,BAL,45,"Rush by Reed, A. for 2 yds. Tackle by Virtanen, M..",5154,21,BAL,YKW,BAL,55,14,31
+146,1,3,6:14,1274,2,3,YKW,48,"Wraiths Penalty on Grithead, D.: Too many men on the field.",5154,21,BAL,YKW,BAL,48,14,31
+147,1,3,6:14,1274,2,3,YKW,48,"Rush by Williams, D. for 5 yds. Tackle by Virtanen, M..",5154,21,BAL,YKW,BAL,48,14,31
+148,1,3,5:53,1253,1,10,YKW,43,"Pass by Havran, C., complete to Williams, D. for -3 yds. Tackle by Lejune, L..",5154,21,BAL,YKW,BAL,43,14,31
+149,1,3,5:07,1207,2,13,YKW,46,"Pass by Havran, C. to Maddox, E. is incomplete. Broken up by Snuggles, J..",5154,21,BAL,YKW,BAL,46,14,31
+150,1,3,5:03,1203,3,13,YKW,46,"Pass by Havran, C., complete to Williams, D. for 28 yds. Tackle by Snuggles, J..",5154,21,BAL,YKW,BAL,46,14,31
+151,1,3,4:06,1146,1,9,YKW,9,"Wraiths Penalty on Kearse, J.: Unnecessary Roughness.",5154,21,BAL,YKW,BAL,9,14,31
+152,1,3,3:58,1138,1,9,YKW,9,"Pass by Havran, C., complete to Williams, D. for 1 yds. Tackle by Selich, A..",5154,21,BAL,YKW,BAL,9,14,31
+153,1,3,3:28,1108,2,8,YKW,8,"Pass by Havran, C. to Reed, A. falls incomplete.",5154,21,BAL,YKW,BAL,8,14,31
+154,1,3,3:22,1102,3,8,YKW,8,"Pass by Havran, C., complete to Quinn, A. for 8 yds.",5154,21,BAL,YKW,BAL,8,14,31
+155,1,3,3:00,1080,,,,,TOUCHDOWN! (Brand kick good),5154,21,BAL,YKW,BAL,,14,38
+156,1,3,3:00,1080,,,BAL,30,"Brand, F. kicks off.",5154,21,BAL,YKW,BAL,70,14,38
+157,2,3,3:00,1080,,,,,"Snuggles, J. takes it down the right side.",5154,21,BAL,YKW,YKW,,14,38
+158,2,3,3:00,1080,,,,,"Snuggles, J. is finally brought down. A 36 yard return.",5154,21,BAL,YKW,YKW,,14,38
+159,2,3,2:50,1070,1,10,YKW,43,"Rush by Drake, O. for 0 yds. Tackle by Taffy, T..",5154,21,BAL,YKW,YKW,57,14,38
+160,2,3,2:39,1059,2,10,YKW,43,"Pass by Bigsby, C., complete to Hanyadi, M. for 11 yds. Tackle by Nikko, G..",5154,21,BAL,YKW,YKW,57,14,38
+161,2,3,2:06,1026,1,10,BAL,46,"Rush by Drake, O. for 5 yds. Tackle by Nikko, G..",5154,21,BAL,YKW,YKW,46,14,38
+162,2,3,1:48,1008,2,5,BAL,41,"Pass by Bigsby, C. to Swift, N. falls incomplete.",5154,21,BAL,YKW,YKW,41,14,38
+163,2,3,1:41,1001,3,5,BAL,41,"Rush by Hanyadi, M. for 5 yds. Tackle by Nikko, G..",5154,21,BAL,YKW,YKW,41,14,38
+164,2,3,1:19,979,1,10,BAL,36,"Rush by Drake, O. for 3 yds. Tackle by Taffy, T..",5154,21,BAL,YKW,YKW,36,14,38
+165,2,3,1:00,960,2,7,BAL,33,"Bigsby, C. SACKED by Raymond Vans - LB for -7 yds.",5154,21,BAL,YKW,YKW,33,14,38
+166,2,3,0:36,936,3,14,BAL,40,"Pass by Bigsby, C., complete to Hanyadi, M. for 6 yds. Tackle by Uchiha, L..",5154,21,BAL,YKW,YKW,40,14,38
+167,1,3,0:00,900,4,8,YKW,34,"Punt by Smalls (R), D. of 34 yards. Touchback.",5154,21,BAL,YKW,BAL,34,14,38
+168,1,4,15:00,900,1,10,BAL,20,"Rush by Havran, C. for 0 yds. Tackle by Kearse, J..",5154,21,BAL,YKW,BAL,80,14,38
+169,1,4,14:39,879,2,10,BAL,20,"Rush by Reed, A. for a short gain. Tackle by Alexander, N..",5154,21,BAL,YKW,BAL,80,14,38
+170,1,4,14:21,861,3,10,BAL,20,"Pass by Havran, C. to Reed, A. is incomplete. Broken up by Virtanen, M..",5154,21,BAL,YKW,BAL,80,14,38
+171,2,4,14:16,856,4,10,YKW,20,"Punt by Brand, F. of 32 yards. No return.",5154,21,BAL,YKW,YKW,80,14,38
+172,2,4,14:10,850,1,10,YKW,48,"Rush by Hanyadi, M. for 8 yds. Tackle by Uchiha, L..",5154,21,BAL,YKW,YKW,52,14,38
+173,2,4,13:36,816,2,2,BAL,44,"Rush by Hanyadi, M. for 8 yds. Tackle by Nikko, G..",5154,21,BAL,YKW,YKW,44,14,38
+174,2,4,13:18,798,1,10,BAL,36,"Rush by Hanyadi, M. for 8 yds. Tackle by Troyski, X..",5154,21,BAL,YKW,YKW,36,14,38
+175,2,4,12:52,772,2,2,BAL,28,"Rush by Hanyadi, M. for 13 yds. Tackle by Green, W..",5154,21,BAL,YKW,YKW,28,14,38
+176,2,4,12:25,745,1,10,BAL,15,"Rush by Drake, O. for 2 yds. Tackle by Nikko, G..",5154,21,BAL,YKW,YKW,15,14,38
+177,2,4,12:00,720,2,8,BAL,13,"Rush by Drake, O. for 6 yds. Tackle by Troyski, X..",5154,21,BAL,YKW,YKW,13,14,38
+178,2,4,11:36,696,3,2,BAL,7,"Rush by Hanyadi, M. for 6 yds. Tackle by Troyski, X..",5154,21,BAL,YKW,YKW,7,14,38
+179,2,4,11:13,673,1,1,BAL,1,"Rush by Drake, O. for a short gain. Tackle by Taffy, T..",5154,21,BAL,YKW,YKW,1,14,38
+180,2,4,11:03,663,2,1,BAL,1,"Rush by Hanyadi, M. for a short gain. Tackle by Z, D..",5154,21,BAL,YKW,YKW,1,14,38
+181,2,4,10:45,645,3,1,BAL,1,Rush by Orien Drake for 1 yds.,5154,21,BAL,YKW,YKW,1,14,38
+182,2,4,10:33,633,,,,,TOUCHDOWN! (Smalls (R) kick good),5154,21,BAL,YKW,YKW,,21,38
+183,2,4,10:33,633,,,YKW,30,"Smalls (R), D. kicks off.",5154,21,BAL,YKW,YKW,70,21,38
+184,1,4,10:33,633,,,,,The kick sails into the endzone.,5154,21,BAL,YKW,BAL,,21,38
+185,1,4,10:33,633,,,,,"Green, W. takes it out of the endzone!",5154,21,BAL,YKW,BAL,,21,38
+186,1,4,10:33,633,,,BAL,26,"Kickoff of 78 yards. Returned by Green, W. for 26 yards.",5154,21,BAL,YKW,BAL,74,21,38
+187,1,4,10:24,624,1,10,BAL,26,"Rush by Reed, A. for 8 yds. Tackle by Lejune, L..",5154,21,BAL,YKW,BAL,74,21,38
+188,1,4,9:57,597,2,2,BAL,34,"Pass by Havran, C., complete to Maddox, E. for 41 yds. Tackle by Snuggles, J..",5154,21,BAL,YKW,BAL,66,21,38
+189,1,4,8:48,528,1,10,YKW,24,"Rush by Williams, D. for 6 yds. Tackle by Selich, A..",5154,21,BAL,YKW,BAL,24,21,38
+190,1,4,8:22,502,2,4,YKW,18,"Rush by Reed, A. for 5 yds. Tackle by Selich, A..",5154,21,BAL,YKW,BAL,18,21,38
+191,1,4,8:05,485,1,10,YKW,13,"Rush by Reed, A. for 3 yds. Tackle by Grithead, D..",5154,21,BAL,YKW,BAL,13,21,38
+192,1,4,7:43,463,2,7,YKW,10,"Pass by Havran, C., complete to Quinn, A. for 10 yds.",5154,21,BAL,YKW,BAL,10,21,38
+193,1,4,7:14,434,,,,,TOUCHDOWN! (Brand kick good),5154,21,BAL,YKW,BAL,,21,45
+194,1,4,7:14,434,,,BAL,30,"Brand, F. kicks off.",5154,21,BAL,YKW,BAL,70,21,45
+195,2,4,7:14,434,,,,,The kick sails into the endzone.,5154,21,BAL,YKW,YKW,,21,45
+196,2,4,7:14,434,,,,,"Snuggles, J. takes it out of the endzone!",5154,21,BAL,YKW,YKW,,21,45
+197,2,4,7:14,434,,,YKW,16,"Kickoff of 80 yards. Returned by Snuggles, J. for 16 yards.",5154,21,BAL,YKW,YKW,84,21,45
+198,2,4,7:09,429,1,10,YKW,16,"Pass by Bigsby, C., complete to Drake, O. for 4 yds. Tackle by Nikko, G..",5154,21,BAL,YKW,YKW,84,21,45
+199,2,4,6:21,381,2,6,YKW,20,"Pass by Bigsby, C., complete to Gordon, R. for 32 yds. Tackle by Marston, J..",5154,21,BAL,YKW,YKW,80,21,45
+200,2,4,5:27,327,1,10,BAL,47,"Rush by Hanyadi, M. for 13 yds. Tackle by Green, W..",5154,21,BAL,YKW,YKW,47,21,45
+201,2,4,4:57,297,1,10,BAL,34,"Rush by Hanyadi, M. for a short gain. Tackle by Z, D..",5154,21,BAL,YKW,YKW,34,21,45
+202,2,4,4:39,279,2,10,BAL,34,"Pass by Bigsby, C., complete to Hanyadi, M. for 8 yds. Tackle by Uchiha, L..",5154,21,BAL,YKW,YKW,34,21,45
+203,2,4,3:56,236,3,2,BAL,26,"Pass by Bigsby, C., complete to Rodriguez, B. for 21 yds. Tackle by Marston, J..",5154,21,BAL,YKW,YKW,26,21,45
+204,2,4,3:12,192,1,5,BAL,5,"Pass by Bigsby, C. to Swift, N. is incomplete. Broken up by Acho, M..",5154,21,BAL,YKW,YKW,5,21,45
+205,2,4,3:09,189,2,5,BAL,5,"Rush by Hanyadi, M. for 4 yds. Tackle by Vans, R..",5154,21,BAL,YKW,YKW,5,21,45
+206,2,4,2:40,160,3,1,BAL,1,Rush by Mathias Hanyadi for 1 yds.,5154,21,BAL,YKW,YKW,1,21,45
+207,2,4,2:33,153,,,,,TOUCHDOWN! (Smalls (R) kick good),5154,21,BAL,YKW,YKW,,28,45
+208,1,4,2:33,153,,,YKW,42,"Onsides Kickoff by Smalls (R), D. of 12 yards. Returned by Williams, D. for 0 yards.",5154,21,BAL,YKW,BAL,42,28,45
+209,1,4,2:27,147,1,10,YKW,42,"Rush by Williams, D. for 1 yds. Tackle by Grithead, D..",5154,21,BAL,YKW,BAL,42,28,45
+210,1,4,2:02,122,2,9,YKW,41,"Pass by Havran, C., complete to Maddox, E. for 8 yds. Tackle by Leonard, M..",5154,21,BAL,YKW,BAL,41,28,45
+211,1,4,1:25,85,3,1,YKW,33,"Rush by Williams, D. for 10 yds. Tackle by Lejune, L..",5154,21,BAL,YKW,BAL,33,28,45
+212,1,4,0:52,52,1,10,YKW,23,"Rush by Reed, A. for 2 yds. Tackle by Selich, A..",5154,21,BAL,YKW,BAL,23,28,45
+213,1,4,0:33,33,2,8,YKW,21,"Rush by Reed, A. for 1 yds. Tackle by Kroustis, G..",5154,21,BAL,YKW,BAL,21,28,45
+214,1,4,0:08,8,3,7,YKW,20,"Rush by Williams, D. for 0 yds. Tackle by Alexander, N..",5154,21,BAL,YKW,BAL,20,28,45
+215,1,4,0:00,0,4,7,YKW,20,"37 yard FG by Brand, F. is NO good.",5154,21,BAL,YKW,BAL,20,28,45
+0,3,1,15:00,3600,,,COL,30,"Banana (R), S. kicks off.",5155,21,COL,PHI,COL,70,0,0
+1,7,1,15:00,3600,,,,,"Varga, N. takes it down the right side.",5155,21,COL,PHI,PHI,,0,0
+2,7,1,15:00,3600,,,,,"Varga, N. is finally brought down. A 33 yard return.",5155,21,COL,PHI,PHI,,0,0
+3,7,1,14:53,3593,1,10,PHI,40,"Rush by Hank, F. for 7 yds. Tackle by Gabagool, T..",5155,21,COL,PHI,PHI,60,0,0
+4,7,1,14:36,3576,2,3,PHI,47,"Rush by Torenson, S. for 3 yds. Tackle by Berry, M..",5155,21,COL,PHI,PHI,53,0,0
+5,7,1,14:11,3551,1,10,PHI,50,"Rush by Torenson, S. for 2 yds. Tackle by Smirh (R), J..",5155,21,COL,PHI,PHI,50,0,0
+6,7,1,13:52,3532,2,8,COL,48,"Rush by Hank, F. for 6 yds. Tackle by Kirkby (R), T..",5155,21,COL,PHI,PHI,48,0,0
+7,7,1,13:19,3499,3,2,COL,42,"Rush by Torenson, S. for 4 yds. Tackle by Berry, M..",5155,21,COL,PHI,PHI,42,0,0
+8,7,1,13:01,3481,1,10,COL,38,"Rush by Torenson, S. for 7 yds. Tackle by Berry, M..",5155,21,COL,PHI,PHI,38,0,0
+9,7,1,12:33,3453,2,3,COL,31,"Rush by Dotson, F. for 6 yds. Tackle by Berry, M..",5155,21,COL,PHI,PHI,31,0,0
+10,7,1,12:05,3425,1,10,COL,25,"Pass by Phoenix, B., complete to Vuxta, R. for 10 yds. Tackle by Kirkby (R), T..",5155,21,COL,PHI,PHI,25,0,0
+11,7,1,11:25,3385,1,10,COL,15,"Pass by Phoenix, B., complete to Torenson, S. for a short gain. Tackle by Berry, M..",5155,21,COL,PHI,PHI,15,0,0
+12,7,1,11:00,3360,2,10,COL,15,"Rush by Hank, F. for 4 yds. Tackle by Berry, M..",5155,21,COL,PHI,PHI,15,0,0
+13,7,1,10:37,3337,3,6,COL,11,"Pass by Phoenix, B. to Hank, F. is incomplete. Broken up by Gabagool, T..",5155,21,COL,PHI,PHI,11,0,0
+14,7,1,10:31,3331,4,6,COL,11,"28 yard FG by Powers, V. is good.",5155,21,COL,PHI,PHI,11,3,0
+15,7,1,10:31,3331,,,PHI,30,"Powers, V. kicks off.",5155,21,COL,PHI,PHI,70,3,0
+16,3,1,10:31,3331,,,,,The kick sails into the endzone.,5155,21,COL,PHI,COL,,3,0
+17,3,1,10:31,3331,,,,,"Forty-Two, L. takes it out of the endzone!",5155,21,COL,PHI,COL,,3,0
+18,3,1,10:31,3331,,,COL,15,"Kickoff of 83 yards. Returned by Forty-Two, L. for 15 yards.",5155,21,COL,PHI,COL,85,3,0
+19,3,1,10:29,3329,1,10,COL,15,"Pass by McDummy, W. to Sauce, E. is incomplete. Broken up by Howyanow, W..",5155,21,COL,PHI,COL,85,3,0
+20,3,1,10:26,3326,2,10,COL,15,"Rush by Owens, A. for 5 yds. Tackle by Little IV, S..",5155,21,COL,PHI,COL,85,3,0
+21,3,1,9:59,3299,3,5,COL,20,"Rush by Owens, A. for 1 yds. Tackle by ILove, G..",5155,21,COL,PHI,COL,80,3,0
+22,7,1,9:43,3283,4,4,PHI,21,"Punt by Banana (R), S. of 51 yards. No return.",5155,21,COL,PHI,PHI,79,3,0
+23,7,1,9:36,3276,1,10,PHI,27,"Rush by Torenson, S. for a short gain. Tackle by Blackstone (R), I..",5155,21,COL,PHI,PHI,73,3,0
+24,7,1,9:17,3257,2,10,PHI,27,"Rush by Torenson, S. for 1 yds. Tackle by Thumper, B..",5155,21,COL,PHI,PHI,73,3,0
+25,7,1,9:03,3243,3,9,PHI,28,"Pass by Phoenix, B., complete to Blocksdale Jr., A. for 8 yds. Tackle by Berry, M..",5155,21,COL,PHI,PHI,72,3,0
+26,3,1,8:25,3205,4,1,COL,36,"Punt by Powers, V. of 47 yards.",5155,21,COL,PHI,COL,64,3,0
+27,3,1,8:25,3205,,,,,"Returned by Purchase, L. for -1 yards.",5155,21,COL,PHI,COL,,3,0
+28,3,1,8:15,3195,1,10,COL,15,"Rush by Owens, A. for 3 yds. Tackle by D'Attoria V, R..",5155,21,COL,PHI,COL,85,3,0
+29,3,1,7:55,3175,2,2,COL,23,"Liberty Penalty on Personsacker (R), J.: Too many men on the field.",5155,21,COL,PHI,COL,77,3,0
+30,3,1,7:55,3175,2,2,COL,23,"Rush by Owens, A. for a short gain. Tackle by ILove, G..",5155,21,COL,PHI,COL,77,3,0
+31,3,1,7:39,3159,3,2,COL,23,"Rush by Owens, A. for 1 yds. Tackle by Harding, J..",5155,21,COL,PHI,COL,77,3,0
+32,7,1,7:26,3146,4,1,PHI,24,"Punt by Banana (R), S. of 46 yards.",5155,21,COL,PHI,PHI,76,3,0
+33,7,1,7:26,3146,,,,,"Returned by Vuxta, R. for -1 yards.",5155,21,COL,PHI,PHI,,3,0
+34,7,1,7:13,3133,1,15,PHI,23,"Liberty Penalty on Dotson, F.: Delay of Game.",5155,21,COL,PHI,PHI,77,3,0
+35,7,1,7:13,3133,1,15,PHI,23,"Rush by Torenson, S. for 3 yds. Tackle by Hornbacher, A..",5155,21,COL,PHI,PHI,77,3,0
+36,7,1,6:54,3114,2,12,PHI,26,"Rush by Hank, F. for 6 yds. Tackle by Ocewilder, S..",5155,21,COL,PHI,PHI,74,3,0
+37,7,1,6:33,3093,3,6,PHI,32,"Pass by Phoenix, B., complete to Dotson, F. for 27 yds. Tackle by Purchase, L..",5155,21,COL,PHI,PHI,68,3,0
+38,7,1,5:43,3043,1,10,COL,40,"Rush by Torenson, S. for 3 yds. Tackle by Gabagool, T..",5155,21,COL,PHI,PHI,40,3,0
+39,7,1,5:22,3022,2,7,COL,37,"Rush by Torenson, S. for 4 yds. Tackle by Gabagool, T..",5155,21,COL,PHI,PHI,37,3,0
+40,7,1,5:02,3002,3,3,COL,33,"Rush by Torenson, S. for 5 yds. Tackle by Gabagool, T..",5155,21,COL,PHI,PHI,33,3,0
+41,7,1,4:35,2975,1,10,COL,28,"Rush by Torenson, S. for -1 yds. Tackle by Ocewilder, S..",5155,21,COL,PHI,PHI,28,3,0
+42,7,1,4:25,2965,2,11,COL,29,"Rush by Hank, F. for a short gain. Tackle by Blackstone (R), I..",5155,21,COL,PHI,PHI,29,3,0
+43,7,1,4:06,2946,3,11,COL,29,"Pass by Phoenix, B., complete to Varga, N. for 29 yds.",5155,21,COL,PHI,PHI,29,3,0
+44,7,1,3:13,2893,,,,,TOUCHDOWN! (Powers kick good),5155,21,COL,PHI,PHI,,10,0
+45,7,1,3:13,2893,,,PHI,30,"Powers, V. kicks off.",5155,21,COL,PHI,PHI,70,10,0
+46,3,1,3:13,2893,,,,,The kick sails into the endzone.,5155,21,COL,PHI,COL,,10,0
+47,3,1,3:13,2893,,,,,"Owens, A. takes it out of the endzone!",5155,21,COL,PHI,COL,,10,0
+48,3,1,3:13,2893,,,COL,29,"Kickoff of 84 yards. Returned by Owens, A. for 29 yards.",5155,21,COL,PHI,COL,71,10,0
+49,3,1,3:03,2883,1,10,COL,29,"Pass by McDummy, W. to Owens, A. was dropped! Incomplete.",5155,21,COL,PHI,COL,71,10,0
+50,3,1,2:59,2879,2,10,COL,29,"Pass by McDummy, W. to Arrow (R), R. falls incomplete.",5155,21,COL,PHI,COL,71,10,0
+51,3,1,2:56,2876,3,10,COL,29,"Pass by McDummy, W. to Forty-Two, L. is incomplete. Broken up by Emoji, E..",5155,21,COL,PHI,COL,71,10,0
+52,7,1,2:51,2871,4,10,PHI,29,"Punt by Banana (R), S. of 57 yards. No return.",5155,21,COL,PHI,PHI,71,10,0
+53,7,1,2:41,2861,1,10,PHI,13,"Rush by Torenson, S. for 2 yds. Tackle by Hornbacher, A..",5155,21,COL,PHI,PHI,87,10,0
+54,7,1,2:17,2837,2,8,PHI,15,"Rush by Torenson, S. for 2 yds. Tackle by Berry, M..",5155,21,COL,PHI,PHI,85,10,0
+55,7,1,1:55,2815,3,6,PHI,17,"Pass by Phoenix, B. to Blocksdale Jr., A. was dropped! Incomplete.",5155,21,COL,PHI,PHI,83,10,0
+56,3,1,1:48,2808,4,6,COL,17,"Punt by Powers, V. of 47 yards. No return.",5155,21,COL,PHI,COL,83,10,0
+57,3,1,1:40,2800,1,10,COL,35,"Pass by McDummy, W. to Bishop, J. was dropped! Incomplete.",5155,21,COL,PHI,COL,65,10,0
+58,3,1,1:37,2797,2,10,COL,35,"Pass by McDummy, W., complete to Bishop, J. for 5 yds. Tackle by McMorris, J..",5155,21,COL,PHI,COL,65,10,0
+59,3,1,1:14,2774,3,5,COL,40,"Rush by Vincent, M. for 5 yds. Tackle by Stephens (R), W..",5155,21,COL,PHI,COL,60,10,0
+60,3,1,0:58,2758,1,10,COL,45,"Pass by McDummy, W., complete to Owens, A. for 29 yds. Tackle by Garnett, L..",5155,21,COL,PHI,COL,55,10,0
+61,3,1,0:01,2701,1,10,PHI,25,"Rush by Owens, A. for 6 yds. Tackle by Stephens (R), W..",5155,21,COL,PHI,COL,25,10,0
+62,3,2,15:00,2700,2,4,PHI,19,"Pass by McDummy, W., complete to Owens, A. for a short gain. Tackle by D'Attoria V, R..",5155,21,COL,PHI,COL,19,10,0
+63,3,2,14:27,2667,3,4,PHI,19,"Rush by Owens, A. for a short gain. Tackle by ILove, G..",5155,21,COL,PHI,COL,19,10,0
+64,3,2,14:16,2656,4,4,PHI,19,"36 yard FG by Banana (R), S. is good.",5155,21,COL,PHI,COL,19,10,3
+65,3,2,14:16,2656,,,COL,30,"Banana (R), S. kicks off.",5155,21,COL,PHI,COL,70,10,3
+66,7,2,14:16,2656,,,PHI,21,"Kickoff of 63 yards. Returned by Vuxta, R. for 14 yards.",5155,21,COL,PHI,PHI,79,10,3
+67,7,2,14:14,2654,1,10,PHI,21,"Pass by Phoenix, B., complete to Dotson, F. for 31 yds. Tackle by Gabagool, T..",5155,21,COL,PHI,PHI,79,10,3
+68,7,2,13:15,2595,1,10,COL,48,"Rush by Torenson, S. for 7 yds. Tackle by Thumper, B..",5155,21,COL,PHI,PHI,48,10,3
+69,7,2,12:42,2562,2,3,COL,41,"Rush by Torenson, S. for 1 yds. Tackle by Ocewilder, S..",5155,21,COL,PHI,PHI,41,10,3
+70,7,2,12:21,2541,3,2,COL,40,"Rush by Torenson, S. for a short gain. Tackle by Thumper, B..",5155,21,COL,PHI,PHI,40,10,3
+71,7,2,12:00,2520,4,2,COL,40,"Rush by Torenson, S. for 4 yds. Tackle by Hornbacher, A..",5155,21,COL,PHI,PHI,40,10,3
+72,7,2,11:27,2487,1,10,COL,36,"Rush by Hank, F. for 7 yds. Tackle by Smirh (R), J..",5155,21,COL,PHI,PHI,36,10,3
+73,7,2,10:57,2457,2,3,COL,29,"Rush by Dotson, F. for 5 yds. Tackle by Berry, M..",5155,21,COL,PHI,PHI,29,10,3
+74,7,2,10:37,2437,1,5,COL,19,"Yeti Penalty on Ocewilder, S.: Offsides.",5155,21,COL,PHI,PHI,19,10,3
+75,7,2,10:37,2437,1,5,COL,19,"Rush by Torenson, S. for 1 yds. Tackle by Parker, P..",5155,21,COL,PHI,PHI,19,10,3
+76,7,2,10:13,2413,2,4,COL,18,"Rush by Torenson, S. for 7 yds. Tackle by Gabagool, T..",5155,21,COL,PHI,PHI,18,10,3
+77,7,2,9:49,2389,1,10,COL,11,"Rush by Hank, F. for 3 yds. Tackle by Gabagool, T..",5155,21,COL,PHI,PHI,11,10,3
+78,7,2,9:25,2365,2,7,COL,8,"Rush by Torenson, S. for 1 yds. Tackle by Thumper, B..",5155,21,COL,PHI,PHI,8,10,3
+79,7,2,9:04,2344,3,6,COL,7,"Phoenix, B. SACKED by Immanuel Blackstone (R) - DE for -11 yds.",5155,21,COL,PHI,PHI,7,10,3
+80,7,2,8:29,2309,4,17,COL,18,"35 yard FG by Powers, V. is good.",5155,21,COL,PHI,PHI,18,13,3
+81,7,2,8:29,2309,,,PHI,30,"Powers, V. kicks off.",5155,21,COL,PHI,PHI,70,13,3
+82,3,2,8:29,2309,,,,,The kick sails into the endzone.,5155,21,COL,PHI,COL,,13,3
+83,3,2,8:29,2309,,,,,"Forty-Two, L. takes it out of the endzone!",5155,21,COL,PHI,COL,,13,3
+84,3,2,8:29,2309,,,COL,25,"Kickoff of 82 yards. Returned by Forty-Two, L. for 25 yards.",5155,21,COL,PHI,COL,75,13,3
+85,3,2,8:19,2299,1,10,COL,25,"Rush by Owens, A. for 1 yds. Tackle by Harding, J..",5155,21,COL,PHI,COL,75,13,3
+86,3,2,8:00,2280,2,9,COL,26,"Rush by Vincent, M. for 4 yds. Tackle by Howyanow, W..",5155,21,COL,PHI,COL,74,13,3
+87,3,2,7:37,2257,1,10,COL,45,"Liberty Penalty on Howyanow, W.: Facemask.",5155,21,COL,PHI,COL,55,13,3
+88,3,2,7:27,2247,1,10,COL,45,"Rush by Owens, A. for a short gain. Tackle by ILove, G..",5155,21,COL,PHI,COL,55,13,3
+89,3,2,7:04,2224,2,10,COL,45,"Pass by McDummy, W., complete to Bishop, J. for 12 yds. Tackle by McMorris, J..",5155,21,COL,PHI,COL,55,13,3
+90,3,2,6:21,2181,1,10,PHI,42,"Pass by McDummy, W., complete to Bishop, J. for 32 yds. Tackle by McMorris, J..",5155,21,COL,PHI,COL,42,13,3
+91,3,2,5:25,2125,1,10,PHI,10,"Pass by McDummy, W. to Forty-Two, L. falls incomplete.",5155,21,COL,PHI,COL,10,13,3
+92,3,2,5:22,2122,2,10,PHI,10,"Pass by McDummy, W., complete to Bishop, J. for 10 yds.",5155,21,COL,PHI,COL,10,13,3
+93,3,2,4:57,2097,,,,,TOUCHDOWN! (Banana (R) kick good),5155,21,COL,PHI,COL,,13,10
+94,3,2,4:57,2097,,,COL,30,"Banana (R), S. kicks off.",5155,21,COL,PHI,COL,70,13,10
+95,7,2,4:57,2097,,,PHI,4,"Kickoff of 68 yards. Returned by Vuxta, R. for 2 yards.",5155,21,COL,PHI,PHI,96,13,10
+96,7,2,4:52,2092,1,10,PHI,4,"Rush by Torenson, S. for 10 yds. Tackle by Gabagool, T..",5155,21,COL,PHI,PHI,96,13,10
+97,7,2,4:28,2068,1,10,PHI,14,"Rush by Torenson, S. for 2 yds. Tackle by Thumper, B..",5155,21,COL,PHI,PHI,86,13,10
+98,7,2,4:13,2053,2,8,PHI,16,"Pass by Phoenix, B., complete to Blocksdale Jr., A. for 9 yds. Tackle by Gabagool, T..",5155,21,COL,PHI,PHI,84,13,10
+99,7,2,3:47,2027,1,10,PHI,25,"Pass by Phoenix, B. to Varga, N. is incomplete. Broken up by Sinclair, Q..",5155,21,COL,PHI,PHI,75,13,10
+100,7,2,3:42,2022,2,10,PHI,25,"Rush by Torenson, S. for 5 yds. Tackle by Gabagool, T..",5155,21,COL,PHI,PHI,75,13,10
+101,7,2,3:14,1994,3,5,PHI,30,"Pass by Phoenix, B., complete to Varga, N. for 25 yds. Tackle by Hornbacher, A..",5155,21,COL,PHI,PHI,70,13,10
+102,7,2,2:16,1936,1,10,COL,45,"Rush by Hank, F. for 7 yds. Tackle by Hornbacher, A..",5155,21,COL,PHI,PHI,45,13,10
+103,7,2,1:49,1909,2,3,COL,38,"Rush by Hank, F. for 5 yds. Tackle by Parker, P..",5155,21,COL,PHI,PHI,38,13,10
+104,7,2,1:49,1909,1,10,COL,33,Philadelphia Liberty : Timeout,5155,21,COL,PHI,PHI,33,13,10
+105,7,2,1:31,1891,1,10,COL,33,"Rush by Torenson, S. for 2 yds. Tackle by Hornbacher, A..",5155,21,COL,PHI,PHI,33,13,10
+106,7,2,1:31,1891,2,8,COL,31,Philadelphia Liberty : Timeout,5155,21,COL,PHI,PHI,31,13,10
+107,7,2,1:15,1875,2,8,COL,31,"Rush by Dotson, F. for 9 yds. Tackle by Parker, P..",5155,21,COL,PHI,PHI,31,13,10
+108,7,2,1:15,1875,1,10,COL,22,Philadelphia Liberty : Timeout,5155,21,COL,PHI,PHI,22,13,10
+109,7,2,0:55,1855,1,15,COL,27,"Liberty Penalty on Vuxta, R.: Too many men on the field.",5155,21,COL,PHI,PHI,27,13,10
+110,7,2,0:55,1855,1,15,COL,27,"Rush by Dotson, F. for 5 yds. Tackle by Berry, M..",5155,21,COL,PHI,PHI,27,13,10
+111,7,2,0:30,1830,1,10,COL,12,"Yeti Penalty on Blackstone (R), I.: Tripping.",5155,21,COL,PHI,PHI,12,13,10
+112,7,2,0:20,1820,1,10,COL,12,"29 yard FG by Powers, V. is good.",5155,21,COL,PHI,PHI,12,16,10
+113,7,2,0:20,1820,,,PHI,30,"Powers, V. kicks off.",5155,21,COL,PHI,PHI,70,16,10
+114,3,2,0:20,1820,,,COL,16,"Kickoff of 66 yards. Returned by Owens, A. for 12 yards.",5155,21,COL,PHI,COL,84,16,10
+115,3,2,0:16,1816,1,10,COL,16,"Pass by McDummy, W., complete to Sauce, E. for 1 yds. Tackle by Garnett, L..",5155,21,COL,PHI,COL,84,16,10
+116,7,3,15:00,1800,,,PHI,30,"Powers, V. kicks off.",5155,21,COL,PHI,PHI,70,16,10
+117,3,3,15:00,1800,,,,,The kick sails into the endzone.,5155,21,COL,PHI,COL,,16,10
+118,3,3,15:00,1800,,,,,"Owens, A. takes it out of the endzone!",5155,21,COL,PHI,COL,,16,10
+119,3,3,15:00,1800,,,COL,11,"Kickoff of 76 yards. Returned by Owens, A. for 11 yards.",5155,21,COL,PHI,COL,89,16,10
+120,3,3,14:54,1794,1,10,COL,11,"Pass by McDummy, W. to Vincent, M. was dropped! Incomplete.",5155,21,COL,PHI,COL,89,16,10
+121,3,3,14:48,1788,2,10,COL,11,"Pass by McDummy, W. to Forty-Two, L. falls incomplete.",5155,21,COL,PHI,COL,89,16,10
+122,3,3,14:42,1782,3,10,COL,11,"Pass by McDummy, W. to Forty-Two, L. falls incomplete.",5155,21,COL,PHI,COL,89,16,10
+123,7,3,14:36,1776,4,10,PHI,11,"Punt by Banana (R), S. of 43 yards.",5155,21,COL,PHI,PHI,89,16,10
+124,7,3,14:36,1776,,,,,"Returned by Vuxta, R. for 0 yards.",5155,21,COL,PHI,PHI,,16,10
+125,7,3,14:23,1763,1,10,PHI,45,"Pass by Phoenix, B. to Blocksdale Jr., A. falls incomplete.",5155,21,COL,PHI,PHI,55,16,10
+126,7,3,14:16,1756,2,10,PHI,45,"Rush by Torenson, S. for 4 yds. Tackle by Smirh (R), J..",5155,21,COL,PHI,PHI,55,16,10
+127,7,3,13:57,1737,3,6,PHI,49,"Phoenix, B. SACKED by Mo Berry - LB for -6 yds.",5155,21,COL,PHI,PHI,51,16,10
+128,3,3,13:27,1707,4,12,COL,43,"Punt by Powers, V. of 38 yards. No return.",5155,21,COL,PHI,COL,57,16,10
+129,3,3,13:19,1699,1,10,COL,18,"Rush by Owens, A. for 4 yds. Tackle by Stephens (R), W..",5155,21,COL,PHI,COL,82,16,10
+130,3,3,12:51,1671,2,6,COL,22,"Pass by McDummy, W., complete to Bishop, J. for 9 yds. Tackle by Emoji, E..",5155,21,COL,PHI,COL,78,16,10
+131,3,3,12:04,1624,1,10,COL,31,"Pass by McDummy, W., to Bishop, J.. INTERCEPTION by D'Attoria V, R. at the COL - 36 yard line and returned for 9 yards.",5155,21,COL,PHI,COL,69,16,10
+132,7,3,11:44,1604,1,10,COL,27,"Pass by Phoenix, B. to Dotson, F. was dropped! Incomplete.",5155,21,COL,PHI,PHI,27,16,10
+133,7,3,11:38,1598,2,10,COL,27,"Pass by Phoenix, B., complete to BigCatchMachine4, Z. for 1 yds. Tackle by Gabagool, T..",5155,21,COL,PHI,PHI,27,16,10
+134,7,3,11:05,1565,3,9,COL,26,"Pass by Phoenix, B., complete to Dotson, F. for 10 yds. Tackle by Hornbacher, A..",5155,21,COL,PHI,PHI,26,16,10
+135,7,3,10:32,1532,1,10,COL,16,"Pass by Phoenix, B. to Varga, N. was dropped! Incomplete.",5155,21,COL,PHI,PHI,16,16,10
+136,7,3,10:26,1526,2,10,COL,16,"Rush by Hank, F. for 9 yds. Tackle by Gabagool, T..",5155,21,COL,PHI,PHI,16,16,10
+137,7,3,10:07,1507,3,1,COL,7,Rush by Sam Torenson for 7 yds.,5155,21,COL,PHI,PHI,7,16,10
+138,7,3,9:47,1487,,,,,TOUCHDOWN! (Powers kick good),5155,21,COL,PHI,PHI,,23,10
+139,7,3,9:47,1487,,,PHI,30,"Powers, V. kicks off.",5155,21,COL,PHI,PHI,70,23,10
+140,3,3,9:47,1487,,,,,The kick sails into the endzone.,5155,21,COL,PHI,COL,,23,10
+141,3,3,9:47,1487,,,,,"Forty-Two, L. takes it out of the endzone!",5155,21,COL,PHI,COL,,23,10
+142,3,3,9:47,1487,,,COL,26,"Kickoff of 75 yards. Returned by Forty-Two, L. for 26 yards.",5155,21,COL,PHI,COL,74,23,10
+143,3,3,9:38,1478,1,10,COL,26,"Pass by McDummy, W., complete to Forty-Two, L. for 24 yds. Tackle by Emoji, E..",5155,21,COL,PHI,COL,74,23,10
+144,3,3,8:45,1425,1,10,PHI,49,"Pass by McDummy, W., complete to Arrow (R), R. for 22 yds. Tackle by Stephens (R), W..",5155,21,COL,PHI,COL,49,23,10
+145,3,3,7:57,1377,1,10,PHI,27,"Pass by McDummy, W. to Owens, A. is incomplete. Broken up by Stephens (R), W..",5155,21,COL,PHI,COL,27,23,10
+146,3,3,7:54,1374,2,10,PHI,27,"Pass by McDummy, W. to Arrow (R), R. is incomplete. Broken up by McMorris, J..",5155,21,COL,PHI,COL,27,23,10
+147,3,3,7:51,1371,3,10,PHI,27,"Pass by McDummy, W., complete to Sauce, E. for 5 yds. Tackle by Howyanow, W..",5155,21,COL,PHI,COL,27,23,10
+148,3,3,7:29,1349,4,5,PHI,22,"39 yard FG by Banana (R), S. is good.",5155,21,COL,PHI,COL,22,23,13
+149,3,3,7:29,1349,,,COL,30,"Banana (R), S. kicks off.",5155,21,COL,PHI,COL,70,23,13
+150,7,3,7:29,1349,,,PHI,32,"Kickoff of 66 yards. Returned by Vuxta, R. for 28 yards.",5155,21,COL,PHI,PHI,68,23,13
+151,7,3,7:24,1344,1,10,PHI,32,"Pass by Phoenix, B. to Dotson, F. was dropped! Incomplete.",5155,21,COL,PHI,PHI,68,23,13
+152,7,3,7:21,1341,2,10,PHI,32,"Rush by Torenson, S. for 3 yds. Tackle by Kirkby (R), T..",5155,21,COL,PHI,PHI,68,23,13
+153,7,3,6:56,1316,3,7,PHI,35,"Pass by Phoenix, B. to Dotson, F. falls incomplete.",5155,21,COL,PHI,PHI,65,23,13
+154,3,3,6:50,1310,4,7,COL,35,"Punt by Powers, V. of 56 yards. No return.",5155,21,COL,PHI,COL,65,23,13
+155,3,3,6:43,1303,1,10,COL,9,"Rush by Owens, A. for 7 yds. Tackle by ILove, G..",5155,21,COL,PHI,COL,91,23,13
+156,3,3,6:11,1271,2,3,COL,16,"Rush by Vincent, M. for 1 yds. Tackle by Harding, J..",5155,21,COL,PHI,COL,84,23,13
+157,3,3,5:52,1252,3,7,COL,12,"Yeti Penalty on Tackle, L.: Illegal Shift.",5155,21,COL,PHI,COL,88,23,13
+158,3,3,5:52,1252,3,7,COL,12,"Pass by McDummy, W., complete to Sauce, E. for 6 yds. Tackle by Howyanow, W..",5155,21,COL,PHI,COL,88,23,13
+159,7,3,5:11,1211,4,1,PHI,18,"Punt by Banana (R), S. of 54 yards. No return.",5155,21,COL,PHI,PHI,82,23,13
+160,7,3,5:04,1204,1,10,PHI,28,"Pass by Phoenix, B., complete to Dotson, F. for 33 yds. Tackle by Purchase, L..",5155,21,COL,PHI,PHI,72,23,13
+161,7,3,3:54,1134,1,10,COL,39,"Pass by Phoenix, B., complete to BigCatchMachine4, Z. for 9 yds. Tackle by Parker, P..",5155,21,COL,PHI,PHI,39,23,13
+162,7,3,3:16,1096,2,1,COL,30,"Rush by Torenson, S. for 6 yds. Tackle by Kirkby (R), T..",5155,21,COL,PHI,PHI,30,23,13
+163,7,3,2:49,1069,1,10,COL,24,"Rush by Torenson, S. for 1 yds. Tackle by Thumper, B..",5155,21,COL,PHI,PHI,24,23,13
+164,7,3,2:36,1056,2,9,COL,23,"Rush by Hank, F. for 4 yds. Tackle by Kirkby (R), T..",5155,21,COL,PHI,PHI,23,23,13
+165,7,3,2:08,1028,3,5,COL,19,"Rush by Torenson, S. for 4 yds. Tackle by Berry, M..",5155,21,COL,PHI,PHI,19,23,13
+166,7,3,1:28,988,4,1,COL,15,"32 yard FG by Powers, V. is good.",5155,21,COL,PHI,PHI,15,26,13
+167,7,3,1:28,988,,,PHI,30,"Powers, V. kicks off.",5155,21,COL,PHI,PHI,70,26,13
+168,3,3,1:28,988,,,,,The kick sails into the endzone.,5155,21,COL,PHI,COL,,26,13
+169,3,3,1:28,988,,,,,"Owens, A. takes it out of the endzone!",5155,21,COL,PHI,COL,,26,13
+170,3,3,1:28,988,,,,,"Owens, A. takes it down the left side.",5155,21,COL,PHI,COL,,26,13
+171,3,3,1:28,988,,,,,"Owens, A. has blockers in front of him.",5155,21,COL,PHI,COL,,26,13
+172,3,3,1:28,988,,,,,A 42 yard return.,5155,21,COL,PHI,COL,,26,13
+173,3,3,1:16,976,1,10,COL,42,"Pass by McDummy, W., to Forty-Two, L.. INTERCEPTION by Emoji, E. at the COL - 49 yard line and returned for 6 yards.",5155,21,COL,PHI,COL,58,26,13
+174,7,3,0:53,953,1,10,COL,43,"Rush by Hank, F. for a short gain. Tackle by Smirh (R), J..",5155,21,COL,PHI,PHI,43,26,13
+175,7,3,0:31,931,2,10,COL,43,"Pass by Phoenix, B., complete to Blocksdale Jr., A. for 8 yds. Tackle by Parker, P..",5155,21,COL,PHI,PHI,43,26,13
+176,7,3,0:00,900,3,2,COL,35,"Rush by Torenson, S. for a short gain. Tackle by Hornbacher, A..",5155,21,COL,PHI,PHI,35,26,13
+177,3,4,15:00,900,4,2,PHI,35,"Punt by Powers, V. of 35 yards. Touchback.",5155,21,COL,PHI,COL,35,26,13
+178,3,4,14:56,896,1,10,COL,20,"Rush by Owens, A. for -1 yds. Tackle by ILove, G..",5155,21,COL,PHI,COL,80,26,13
+179,3,4,14:37,877,2,11,COL,19,"Rush by Owens, A. for 1 yds. Tackle by D'Attoria V, R..",5155,21,COL,PHI,COL,81,26,13
+180,3,4,14:11,851,3,10,COL,20,"Pass by McDummy, W., complete to Forty-Two, L. for 24 yds. Tackle by Emoji, E..",5155,21,COL,PHI,COL,80,26,13
+181,3,4,13:14,794,1,10,COL,44,"Pass by McDummy, W., complete to Bishop, J. for 23 yds. Tackle by Howyanow, W..",5155,21,COL,PHI,COL,56,26,13
+182,3,4,12:33,753,1,10,PHI,33,"Rush by McDummy, W. for -2 yds. Tackle by Franchet, M..",5155,21,COL,PHI,COL,33,26,13
+183,3,4,12:10,730,2,12,PHI,35,"Pass by McDummy, W., complete to Bishop, J. for 15 yds. Tackle by Stephens (R), W..",5155,21,COL,PHI,COL,35,26,13
+184,3,4,11:21,681,1,10,PHI,20,"Rush by Owens, A. for 6 yds. Tackle by D'Attoria V, R..",5155,21,COL,PHI,COL,20,26,13
+185,3,4,10:59,659,2,4,PHI,14,"Rush by Owens, A. for 7 yds. Tackle by Howyanow, W..",5155,21,COL,PHI,COL,14,26,13
+186,3,4,10:40,640,1,7,PHI,7,"Pass by McDummy, W., complete to Owens, A. for 6 yds. Tackle by D'Attoria V, R..",5155,21,COL,PHI,COL,7,26,13
+187,3,4,9:56,596,2,1,PHI,1,Rush by Wolfie McDummy for 1 yds.,5155,21,COL,PHI,COL,1,26,13
+188,3,4,9:34,574,,,,,TOUCHDOWN! (Banana (R) kick good),5155,21,COL,PHI,COL,,26,20
+189,3,4,9:34,574,,,COL,30,"Banana (R), S. kicks off.",5155,21,COL,PHI,COL,70,26,20
+190,7,4,9:34,574,,,PHI,34,"Kickoff of 66 yards. Returned by Vuxta, R. for 30 yards.",5155,21,COL,PHI,PHI,66,26,20
+191,7,4,9:27,567,1,10,PHI,34,"Rush by Torenson, S. for 1 yds. Tackle by Hornbacher, A..",5155,21,COL,PHI,PHI,66,26,20
+192,7,4,8:57,537,2,9,PHI,35,"Pass by Phoenix, B., complete to Blocksdale Jr., A. for 13 yds. Tackle by Gabagool, T..",5155,21,COL,PHI,PHI,65,26,20
+193,7,4,8:14,494,1,10,PHI,48,"Rush by Torenson, S. for 1 yds. Tackle by Smirh (R), J..",5155,21,COL,PHI,PHI,52,26,20
+194,7,4,7:57,477,2,9,PHI,49,"Phoenix, B. throws the ball away to avoid the sack.",5155,21,COL,PHI,PHI,51,26,20
+195,7,4,7:34,454,3,9,PHI,49,"Pass by Phoenix, B. to Blocksdale Jr., A. was dropped! Incomplete.",5155,21,COL,PHI,PHI,51,26,20
+196,3,4,7:30,450,4,9,COL,49,"Punt by Powers, V. of 51 yards. Touchback.",5155,21,COL,PHI,COL,51,26,20
+197,3,4,7:26,446,1,10,COL,20,"Pass by McDummy, W., complete to Arrow (R), R. for 26 yds. Tackle by Little IV, S..",5155,21,COL,PHI,COL,80,26,20
+198,3,4,6:33,393,1,10,COL,46,"Pass by McDummy, W., complete to Owens, A. for 2 yds. Tackle by Stephens (R), W..",5155,21,COL,PHI,COL,54,26,20
+199,3,4,5:57,357,2,8,COL,48,"Pass by McDummy, W., complete to Owens, A. for 2 yds. Tackle by D'Attoria V, R..",5155,21,COL,PHI,COL,52,26,20
+200,3,4,5:17,317,3,6,COL,50,"Pass by McDummy, W., complete to Forty-Two, L. for 14 yds. Tackle by Emoji, E..",5155,21,COL,PHI,COL,50,26,20
+201,3,4,4:29,269,1,10,PHI,36,"Pass by McDummy, W. to Forty-Two, L. is incomplete. Broken up by Emoji, E..",5155,21,COL,PHI,COL,36,26,20
+202,3,4,4:26,266,2,10,PHI,36,"Rush by Owens, A. for 2 yds. Tackle by Harding, J..",5155,21,COL,PHI,COL,36,26,20
+203,3,4,4:12,252,3,8,PHI,34,"Pass by McDummy, W. to Arrow (R), R. falls incomplete.",5155,21,COL,PHI,COL,34,26,20
+204,7,4,4:06,246,4,8,COL,34,"Punt by Banana (R), S. of 34 yards. Touchback.",5155,21,COL,PHI,PHI,34,26,20
+205,7,4,4:02,242,1,10,PHI,20,"Rush by Hank, F. for 1 yds. Tackle by Hornbacher, A..",5155,21,COL,PHI,PHI,80,26,20
+206,7,4,3:37,217,2,9,PHI,21,"Phoenix, B. SACKED by John Tripod Smirh (R) - DT for -7 yds.",5155,21,COL,PHI,PHI,79,26,20
+207,7,4,3:05,185,3,16,PHI,14,"Pass by Phoenix, B. to Varga, N. falls incomplete.",5155,21,COL,PHI,PHI,86,26,20
+208,3,4,2:59,179,4,16,COL,14,"Punt by Powers, V. of 38 yards.",5155,21,COL,PHI,COL,86,26,20
+209,3,4,2:59,179,,,,,"Returned by Purchase, L. for 1 yards.",5155,21,COL,PHI,COL,,26,20
+210,3,4,2:46,166,1,20,COL,39,"Yeti Penalty on Centre, S.: Holding.",5155,21,COL,PHI,COL,61,26,20
+211,3,4,2:29,149,1,20,COL,39,"Pass by McDummy, W., complete to Arrow (R), R. for 8 yds. Tackle by McMorris, J..",5155,21,COL,PHI,COL,61,26,20
+212,3,4,1:50,110,2,12,COL,47,"McDummy, W. SACKED by Wayne Howyanow - LB for -6 yds.",5155,21,COL,PHI,COL,53,26,20
+213,3,4,1:50,110,3,18,COL,41,Colorado Yeti : Timeout,5155,21,COL,PHI,COL,59,26,20
+214,3,4,1:34,94,3,18,COL,41,"Pass by McDummy, W., complete to Vincent, M. for 3 yds. Tackle by D'Attoria V, R..",5155,21,COL,PHI,COL,59,26,20
+215,3,4,1:34,94,4,15,COL,44,Colorado Yeti : Timeout,5155,21,COL,PHI,COL,56,26,20
+216,3,4,1:16,76,4,15,COL,44,"Pass by McDummy, W. to Arrow (R), R. was dropped! Incomplete.",5155,21,COL,PHI,COL,56,26,20
+217,3,4,1:16,76,4,15,COL,44,Turnover on downs.,5155,21,COL,PHI,COL,56,26,20
+218,7,4,1:13,73,1,10,COL,44,"Rush by Torenson, S. for 0 yds. Tackle by Thumper, B..",5155,21,COL,PHI,PHI,44,26,20
+219,7,4,0:47,47,2,10,COL,44,"Rush by Hank, F. for a short gain. Tackle by Ocewilder, S..",5155,21,COL,PHI,PHI,44,26,20
+220,7,4,0:29,29,3,10,COL,44,"Rush by Torenson, S. for 1 yds. Tackle by Thumper, B..",5155,21,COL,PHI,PHI,44,26,20
+221,3,4,0:10,10,4,9,PHI,43,"Punt by Powers, V. of 43 yards. Touchback.",5155,21,COL,PHI,COL,43,26,20
+222,3,4,0:05,5,1,10,COL,20,"Pass by McDummy, W., complete to Sauce, E. for 23 yds. Tackle by Garnett, L..",5155,21,COL,PHI,COL,80,26,20
+0,9,1,15:00,3600,,,CHI,30,"Espinosa, D. kicks off.",5156,21,CHI,AZ ,CHI,70,0,0
+1,4,1,15:00,3600,,,AZ ,27,"Kickoff of 62 yards. Returned by Knight, L. for 19 yards.",5156,21,CHI,AZ ,AZ,27,0,0
+2,4,1,14:54,3594,1,10,AZ ,27,"Pass by Cue, J., complete to Irving, J. for 21 yds. Tackle by Lee, L..",5156,21,CHI,AZ ,AZ,27,0,0
+3,4,1,14:04,3544,1,10,AZ ,48,"Pass by Cue, J., complete to Hardagain, W. for 7 yds. Tackle by Castle, S..",5156,21,CHI,AZ ,AZ,48,0,0
+4,4,1,13:28,3508,1,10,CHI,40,"Butchers Penalty on Harris, B.: Too many men on the field.",5156,21,CHI,AZ ,AZ,40,0,0
+5,4,1,13:28,3508,1,10,CHI,40,"Rush by Ruff, R. for 4 yds. Tackle by Lee, L..",5156,21,CHI,AZ ,AZ,40,0,0
+6,4,1,13:11,3491,2,6,CHI,36,"Cue, J. SACKED by Stevie Vassallo - DE for -11 yds.",5156,21,CHI,AZ ,AZ,36,0,0
+7,4,1,12:38,3458,3,17,CHI,47,"Pass by Cue, J. to Hardagain, W. falls incomplete.",5156,21,CHI,AZ ,AZ,47,0,0
+8,9,1,12:32,3452,4,17,AZ ,47,"Punt by Jay-Jaymison (R), J. of 47 yards. Touchback.",5156,21,CHI,AZ ,CHI,47,0,0
+9,9,1,12:28,3448,1,10,CHI,20,"Rush by Utler, J. for 1 yds. Tackle by Morris, R..",5156,21,CHI,AZ ,CHI,80,0,0
+10,9,1,12:10,3430,2,4,CHI,26,"Outlaws Penalty on Knight, L.: Offsides.",5156,21,CHI,AZ ,CHI,74,0,0
+11,9,1,12:10,3430,2,4,CHI,26,"Pass by Jenkins, R., complete to Espeeyeeseetee, A. for 38 yds. Tackle by Scarlett, D..",5156,21,CHI,AZ ,CHI,74,0,0
+12,9,1,11:06,3366,1,10,AZ ,36,"Rush by Jenkins, R. for -2 yds. Tackle by Morris, R..",5156,21,CHI,AZ ,CHI,36,0,0
+13,9,1,10:46,3346,2,12,AZ ,38,"Pass by Jenkins, R. to Espeeyeeseetee, A. falls incomplete.",5156,21,CHI,AZ ,CHI,38,0,0
+14,9,1,10:39,3339,3,12,AZ ,38,"Pass by Jenkins, R. to Firestorm-Fjord (R), O. is incomplete. Broken up by Wilf, G..",5156,21,CHI,AZ ,CHI,38,0,0
+15,4,1,10:32,3332,4,12,CHI,38,"Punt by Espinosa, D. of 38 yards. Touchback.",5156,21,CHI,AZ ,AZ,38,0,0
+16,4,1,10:27,3327,1,10,AZ ,20,"Pass by Cue, J. to Irving, J. is incomplete. Broken up by Castle, S..",5156,21,CHI,AZ ,AZ,20,0,0
+17,4,1,10:22,3322,2,10,AZ ,20,"Pass by Cue, J., complete to Irving, J. for 27 yds. Tackle by Castle, S..",5156,21,CHI,AZ ,AZ,20,0,0
+18,4,1,9:24,3264,1,10,AZ ,47,"Pass by Cue, J., complete to Irving, J. for 17 yds. Tackle by Ridley, X..",5156,21,CHI,AZ ,AZ,47,0,0
+19,4,1,8:37,3217,1,10,CHI,36,"Pass by Cue, J., complete to Donut, S. for 12 yds. Tackle by Castle, S..",5156,21,CHI,AZ ,AZ,36,0,0
+20,4,1,8:02,3182,1,10,CHI,24,"Pass by Cue, J. to Bur'Berry, J. was dropped! Incomplete.",5156,21,CHI,AZ ,AZ,24,0,0
+21,4,1,7:56,3176,2,10,CHI,24,"Cue, J. SACKED by Benson Harris - DT for -11 yds.",5156,21,CHI,AZ ,AZ,24,0,0
+22,4,1,7:26,3146,3,21,CHI,35,"Pass by Cue, J. to Ruff, R. falls incomplete.",5156,21,CHI,AZ ,AZ,35,0,0
+23,9,1,7:23,3143,4,21,AZ ,35,"Punt by Jay-Jaymison (R), J. of 35 yards. Touchback.",5156,21,CHI,AZ ,CHI,35,0,0
+24,9,1,7:19,3139,1,10,CHI,20,"Pass by Jenkins, R. to O'Leary, S. falls incomplete.",5156,21,CHI,AZ ,CHI,80,0,0
+25,9,1,7:16,3136,2,10,CHI,20,"Pass by Jenkins, R., complete to Espeeyeeseetee, A. for 28 yds. Tackle by Scarlett, D..",5156,21,CHI,AZ ,CHI,80,0,0
+26,9,1,6:24,3084,1,10,CHI,48,"Pass by Jenkins, R., complete to Firestorm-Fjord (R), O. for 10 yds. Tackle by Scarlett, D..",5156,21,CHI,AZ ,CHI,52,0,0
+27,9,1,5:51,3051,1,10,AZ ,42,"Pass by Jenkins, R., complete to Espeeyeeseetee, A. for 38 yds. Tackle by Scarlett, D..",5156,21,CHI,AZ ,CHI,42,0,0
+28,9,1,4:51,2991,1,4,AZ ,4,Rush by Ryan Leaf Jr. for 4 yds.,5156,21,CHI,AZ ,CHI,4,0,0
+29,9,1,4:39,2979,,,,,TOUCHDOWN! (Espinosa kick good),5156,21,CHI,AZ ,CHI,,0,7
+30,9,1,4:39,2979,,,CHI,30,"Espinosa, D. kicks off.",5156,21,CHI,AZ ,CHI,70,0,7
+31,4,1,4:39,2979,,,AZ ,34,"Kickoff of 63 yards. Returned by Knight, L. for 27 yards.",5156,21,CHI,AZ ,AZ,34,0,7
+32,4,1,4:30,2970,1,10,AZ ,34,"Cue, J. SACKED by None Beat - SS for -6 yds.",5156,21,CHI,AZ ,AZ,34,0,7
+33,4,1,3:55,2935,2,16,AZ ,28,"Rush by Cue, J. for a short gain. Tackle by Vassallo, S..",5156,21,CHI,AZ ,AZ,28,0,7
+34,4,1,3:34,2914,3,16,AZ ,28,"Rush by Ruff, R. for 3 yds. Tackle by Hockhertz, M..",5156,21,CHI,AZ ,AZ,28,0,7
+35,9,1,3:16,2896,4,13,CHI,31,"Punt by Jay-Jaymison (R), J. of 32 yards.",5156,21,CHI,AZ ,CHI,69,0,7
+36,9,1,3:16,2896,,,,,"Returned by Leaf Jr., R. for 5 yards.",5156,21,CHI,AZ ,CHI,,0,7
+37,9,1,3:02,2882,1,10,CHI,42,"Pass by Jenkins, R., complete to Firestorm-Fjord (R), O. for 1 yds. Tackle by McKinnie, L..",5156,21,CHI,AZ ,CHI,58,0,7
+38,9,1,2:33,2853,2,9,CHI,43,"Pass by Jenkins, R., complete to O'Leary, S. for 10 yds. Tackle by Knight, L..",5156,21,CHI,AZ ,CHI,57,0,7
+39,9,1,2:06,2826,1,10,AZ ,47,"Pass by Jenkins, R., complete to Firestorm-Fjord (R), O. for 6 yds. Tackle by McKinnie, L..",5156,21,CHI,AZ ,CHI,47,0,7
+40,9,1,1:35,2795,2,4,AZ ,41,"Rush by Utler, J. for 10 yds. Tackle by Montgomery, B..",5156,21,CHI,AZ ,CHI,41,0,7
+41,9,1,0:58,2758,1,10,AZ ,31,"Pass by Jenkins, R. to Firestorm-Fjord (R), O. was dropped! Incomplete.",5156,21,CHI,AZ ,CHI,31,0,7
+42,9,1,0:52,2752,2,10,AZ ,31,"Rush by Utler, J. for 9 yds. Tackle by Nkiah (R), J..",5156,21,CHI,AZ ,CHI,31,0,7
+43,9,1,0:14,2714,3,1,AZ ,22,"Pass by Jenkins, R., complete to O'Leary, S. for 7 yds. Tackle by Knight, L..",5156,21,CHI,AZ ,CHI,22,0,7
+44,9,2,15:00,2700,1,10,AZ ,15,"Pass by Jenkins, R., complete to O'Leary, S. for 7 yds. Tackle by Knight, L..",5156,21,CHI,AZ ,CHI,15,0,7
+45,9,2,14:32,2672,2,8,AZ ,13,"Butchers Penalty on Firestorm-Fjord (R), O.: Illegal Motion.",5156,21,CHI,AZ ,CHI,13,0,7
+46,9,2,14:32,2672,2,8,AZ ,13,"Rush by Leaf Jr., R. for a short gain. Tackle by Smart (R), M..",5156,21,CHI,AZ ,CHI,13,0,7
+47,9,2,14:08,2648,3,8,AZ ,13,"Pass by Jenkins, R., complete to Firestorm-Fjord (R), O. for 3 yds. Tackle by McKinnie, L.. FUMBLE by Firestorm-Fjord (R), O., recovered by Firestorm-Fjord (R), O..",5156,21,CHI,AZ ,CHI,13,0,7
+48,9,2,13:31,2611,4,5,AZ ,10,"27 yard FG by Espinosa, D. is good.",5156,21,CHI,AZ ,CHI,10,0,10
+49,9,2,13:31,2611,,,CHI,30,"Espinosa, D. kicks off.",5156,21,CHI,AZ ,CHI,70,0,10
+50,4,2,13:31,2611,,,,,"Donut, S. takes it down the left side.",5156,21,CHI,AZ ,AZ,,0,10
+51,4,2,13:31,2611,,,,,"Donut, S. sheds a tackler.",5156,21,CHI,AZ ,AZ,,0,10
+52,4,2,13:31,2611,,,,,It's a footrace!,5156,21,CHI,AZ ,AZ,,0,10
+53,4,2,13:31,2611,,,,,A 94 yard return.,5156,21,CHI,AZ ,AZ,,0,10
+54,4,2,13:15,2595,,,,,TOUCHDOWN! (Jay-Jaymison (R) kick NO good),5156,21,CHI,AZ ,AZ,,6,10
+55,4,2,13:15,2595,,,AZ ,30,"Jay-Jaymison (R), J. kicks off.",5156,21,CHI,AZ ,AZ,30,6,10
+56,9,2,13:15,2595,,,,,The kick sails into the endzone.,5156,21,CHI,AZ ,CHI,,6,10
+57,9,2,13:15,2595,,,,,"Leaf Jr., R. takes it out of the endzone!",5156,21,CHI,AZ ,CHI,,6,10
+58,9,2,13:15,2595,,,CHI,11,"Kickoff of 71 yards. Returned by Leaf Jr., R. for 11 yards.",5156,21,CHI,AZ ,CHI,89,6,10
+59,9,2,13:11,2591,1,10,CHI,11,"Pass by Jenkins, R. to Firestorm-Fjord (R), O. was dropped! Incomplete.",5156,21,CHI,AZ ,CHI,89,6,10
+60,9,2,13:05,2585,2,10,CHI,11,"Pass by Jenkins, R., complete to Espeeyeeseetee, A. for 20 yds. Tackle by Scarlett, D..",5156,21,CHI,AZ ,CHI,89,6,10
+61,9,2,12:24,2544,1,10,CHI,31,"Pass by Jenkins, R., complete to O'Leary, S. for 6 yds. Tackle by Knight, L..",5156,21,CHI,AZ ,CHI,69,6,10
+62,9,2,11:59,2519,2,4,CHI,37,"Pass by Jenkins, R. to Utler, J. was dropped! Incomplete.",5156,21,CHI,AZ ,CHI,63,6,10
+63,9,2,11:54,2514,3,4,CHI,37,"Rush by Leaf Jr., R. for 9 yds. Tackle by Nkiah (R), J..",5156,21,CHI,AZ ,CHI,63,6,10
+64,9,2,11:28,2488,1,10,CHI,46,"Pass by Jenkins, R., complete to Leaf Jr., R. for 27 yds. Tackle by Nkiah (R), J..",5156,21,CHI,AZ ,CHI,54,6,10
+65,9,2,10:34,2434,1,10,AZ ,26,"Pass by Jenkins, R. to Firestorm-Fjord (R), O. was dropped! Incomplete.",5156,21,CHI,AZ ,CHI,26,6,10
+66,9,2,10:28,2428,2,10,AZ ,26,"Jenkins, R. SACKED by Shane Masters - DT for -9 yds.",5156,21,CHI,AZ ,CHI,26,6,10
+67,9,2,9:58,2398,3,19,AZ ,35,"Pass by Jenkins, R. to Firestorm-Fjord (R), O. falls incomplete.",5156,21,CHI,AZ ,CHI,35,6,10
+68,4,2,9:52,2392,4,19,CHI,35,"Punt by Espinosa, D. of 35 yards. Touchback.",5156,21,CHI,AZ ,AZ,35,6,10
+69,4,2,9:49,2389,1,10,AZ ,20,"Rush by Cue, J. for a short gain. Tackle by Skarsgard, T..",5156,21,CHI,AZ ,AZ,20,6,10
+70,4,2,9:31,2371,2,10,AZ ,20,"Rush by Ruff, R. for 4 yds. Tackle by Rambo, J..",5156,21,CHI,AZ ,AZ,20,6,10
+71,4,2,9:00,2340,3,6,AZ ,24,"Pass by Cue, J., complete to Ruff, R. for 6 yds. Tackle by Z, D..",5156,21,CHI,AZ ,AZ,24,6,10
+72,4,2,8:24,2304,1,10,AZ ,30,"Pass by Cue, J., complete to Donut, S. for 8 yds. Tackle by Castle, S..",5156,21,CHI,AZ ,AZ,30,6,10
+73,4,2,7:57,2277,2,2,AZ ,38,"Rush by Ruff, R. for 6 yds. Tackle by Hockhertz, M..",5156,21,CHI,AZ ,AZ,38,6,10
+74,4,2,7:32,2252,1,10,AZ ,44,"Pass by Cue, J. to Irving, J. was dropped! Incomplete.",5156,21,CHI,AZ ,AZ,44,6,10
+75,4,2,7:26,2246,2,10,AZ ,44,"Rush by Cue, J. for -2 yds. Tackle by Vassallo, S..",5156,21,CHI,AZ ,AZ,44,6,10
+76,4,2,7:02,2222,3,12,AZ ,42,"Pass by Cue, J., complete to Bur'Berry, J. for 35 yds. Tackle by Hockhertz, M..",5156,21,CHI,AZ ,AZ,42,6,10
+77,4,2,5:58,2158,1,10,CHI,23,"Pass by Cue, J., complete to Donut, S. for 23 yds.",5156,21,CHI,AZ ,AZ,23,6,10
+78,4,2,5:16,2116,,,,,TOUCHDOWN! (Jay-Jaymison (R) kick good),5156,21,CHI,AZ ,AZ,,13,10
+79,4,2,5:16,2116,,,AZ ,30,"Jay-Jaymison (R), J. kicks off.",5156,21,CHI,AZ ,AZ,30,13,10
+80,9,2,5:16,2116,,,,,"Leaf Jr., R. takes it down the middle.",5156,21,CHI,AZ ,CHI,,13,10
+81,9,2,5:16,2116,,,,,"Leaf Jr., R. cuts across the field.",5156,21,CHI,AZ ,CHI,,13,10
+82,9,2,5:16,2116,,,,,It's a footrace!,5156,21,CHI,AZ ,CHI,,13,10
+83,9,2,5:16,2116,,,,,A 93 yard return.,5156,21,CHI,AZ ,CHI,,13,10
+84,9,2,4:59,2099,,,,,TOUCHDOWN! (Espinosa kick NO good),5156,21,CHI,AZ ,CHI,,13,16
+85,9,2,4:59,2099,,,CHI,30,"Espinosa, D. kicks off.",5156,21,CHI,AZ ,CHI,70,13,16
+86,4,2,4:59,2099,,,AZ ,31,"Kickoff of 64 yards. Returned by Donut, S. for 25 yards.",5156,21,CHI,AZ ,AZ,31,13,16
+87,4,2,4:52,2092,1,10,AZ ,31,"Pass by Cue, J., complete to Bur'Berry, J. for 36 yds. Tackle by Ridley, X..",5156,21,CHI,AZ ,AZ,31,13,16
+88,4,2,3:45,2025,1,10,CHI,33,"Rush by Cue, J. for 2 yds. Tackle by Lee, L..",5156,21,CHI,AZ ,AZ,33,13,16
+89,4,2,3:06,1986,2,8,CHI,31,"Pass by Cue, J. to Irving, J. is incomplete. Broken up by Ridley, X..",5156,21,CHI,AZ ,AZ,31,13,16
+90,4,2,3:01,1981,3,8,CHI,31,"Rush by Ruff, R. for 3 yds. Tackle by Bacon, T..",5156,21,CHI,AZ ,AZ,31,13,16
+91,4,2,2:40,1960,4,5,CHI,28,"45 yard FG by Jay-Jaymison (R), J. is good.",5156,21,CHI,AZ ,AZ,28,16,16
+92,4,2,2:40,1960,,,AZ ,30,"Jay-Jaymison (R), J. kicks off.",5156,21,CHI,AZ ,AZ,30,16,16
+93,9,2,2:40,1960,,,,,The kick sails into the endzone.,5156,21,CHI,AZ ,CHI,,16,16
+94,9,2,2:40,1960,,,,,"Leaf Jr., R. takes it out of the endzone!",5156,21,CHI,AZ ,CHI,,16,16
+95,9,2,2:40,1960,,,CHI,11,"Kickoff of 71 yards. Returned by Leaf Jr., R. for 11 yards.",5156,21,CHI,AZ ,CHI,89,16,16
+96,9,2,2:37,1957,1,10,CHI,11,"Rush by Leaf Jr., R. for 4 yds. Tackle by Wilf, G..",5156,21,CHI,AZ ,CHI,89,16,16
+97,9,2,2:17,1937,2,6,CHI,15,"Pass by Jenkins, R., complete to Leaf Jr., R. for 10 yds. Tackle by McKinnie, L..",5156,21,CHI,AZ ,CHI,85,16,16
+98,9,2,2:17,1937,1,10,CHI,25,Chicago Butchers : Timeout,5156,21,CHI,AZ ,CHI,75,16,16
+99,9,2,1:52,1912,1,10,CHI,25,"Pass by Jenkins, R., complete to O'Leary, S. for 5 yds. Tackle by Knight, L..",5156,21,CHI,AZ ,CHI,75,16,16
+100,9,2,1:28,1888,2,5,CHI,30,"Rush by Leaf Jr., R. for 3 yds. Tackle by Montgomery, B..",5156,21,CHI,AZ ,CHI,70,16,16
+101,9,2,1:10,1870,3,2,CHI,33,"Rush by Utler, J. for 1 yds. Tackle by Masters, S..",5156,21,CHI,AZ ,CHI,67,16,16
+102,4,2,1:01,1861,4,1,AZ ,34,"Punt by Espinosa, D. of 64 yards. No return.",5156,21,CHI,AZ ,AZ,34,16,16
+103,4,2,0:53,1853,1,10,AZ ,1,"Pass by Cue, J. to Irving, J. is incomplete. Broken up by Ridley, X..",5156,21,CHI,AZ ,AZ,1,16,16
+104,4,2,0:49,1849,2,10,AZ ,1,"Pass by Cue, J., to Irving, J.. INTERCEPTION by Ridley, X. at the AZ - 7 yard line and returned for 8 yards.",5156,21,CHI,AZ ,AZ,1,16,16
+105,9,2,0:28,1828,,,,,TOUCHDOWN! (Espinosa kick good),5156,21,CHI,AZ ,CHI,,16,23
+106,9,2,0:28,1828,,,CHI,30,"Espinosa, D. kicks off.",5156,21,CHI,AZ ,CHI,70,16,23
+107,4,2,0:28,1828,,,,,The kick sails into the endzone.,5156,21,CHI,AZ ,AZ,,16,23
+108,4,2,0:28,1828,,,,,"Donut, S. takes it out of the endzone!",5156,21,CHI,AZ ,AZ,,16,23
+109,4,2,0:28,1828,,,,,"Donut, S. takes it down the left side.",5156,21,CHI,AZ ,AZ,,16,23
+110,4,2,0:28,1828,,,,,"Donut, S. waits for blockers.",5156,21,CHI,AZ ,AZ,,16,23
+111,4,2,0:28,1828,,,,,A 40 yard return.,5156,21,CHI,AZ ,AZ,,16,23
+112,4,2,0:20,1820,1,10,AZ ,40,"Pass by Cue, J., complete to Donut, S. for 18 yds. Tackle by Ridley, X..",5156,21,CHI,AZ ,AZ,40,16,23
+113,4,3,15:00,1800,,,AZ ,30,"Jay-Jaymison (R), J. kicks off.",5156,21,CHI,AZ ,AZ,30,16,23
+114,9,3,15:00,1800,,,CHI,28,"Kickoff of 68 yards. Returned by Espeeyeeseetee, A. for 26 yards.",5156,21,CHI,AZ ,CHI,72,16,23
+115,9,3,14:50,1790,1,10,CHI,28,"Pass by Jenkins, R. to Utler, J. falls incomplete.",5156,21,CHI,AZ ,CHI,72,16,23
+116,9,3,14:44,1784,2,10,CHI,28,"Pass by Jenkins, R., complete to Utler, J. for 5 yds. Tackle by Montgomery, B..",5156,21,CHI,AZ ,CHI,72,16,23
+117,9,3,14:15,1755,3,5,CHI,33,"Pass by Jenkins, R., complete to Espeeyeeseetee, A. for 6 yds. Tackle by Scarlett, D..",5156,21,CHI,AZ ,CHI,67,16,23
+118,9,3,13:36,1716,1,10,CHI,39,"Pass by Jenkins, R., complete to O'Leary, S. for 7 yds. Tackle by Knight, L..",5156,21,CHI,AZ ,CHI,61,16,23
+119,9,3,13:07,1687,2,3,CHI,46,"Rush by Utler, J. for 6 yds. Tackle by Miller (R), P..",5156,21,CHI,AZ ,CHI,54,16,23
+120,9,3,12:42,1662,1,10,AZ ,48,"Pass by Jenkins, R. to Utler, J. falls incomplete.",5156,21,CHI,AZ ,CHI,48,16,23
+121,9,3,12:35,1655,2,10,AZ ,48,"Pass by Jenkins, R., complete to Firestorm-Fjord (R), O. for 3 yds. Tackle by Nkiah (R), J..",5156,21,CHI,AZ ,CHI,48,16,23
+122,9,3,11:59,1619,3,7,AZ ,45,"Pass by Jenkins, R. to Leaf Jr., R. falls incomplete.",5156,21,CHI,AZ ,CHI,45,16,23
+123,4,3,11:56,1616,4,7,CHI,45,"Punt by Espinosa, D. of 45 yards. Touchback.",5156,21,CHI,AZ ,AZ,45,16,23
+124,4,3,11:52,1612,1,10,AZ ,20,"Pass by Cue, J. to Irving, J. is incomplete. Broken up by Ridley, X..",5156,21,CHI,AZ ,AZ,20,16,23
+125,4,3,11:46,1606,2,10,AZ ,20,"Pass by Cue, J. to Hardagain, W. falls incomplete.",5156,21,CHI,AZ ,AZ,20,16,23
+126,4,3,11:39,1599,3,10,AZ ,20,"Rush by Ruff, R. for 6 yds. Tackle by Hockhertz, M..",5156,21,CHI,AZ ,AZ,20,16,23
+127,9,3,11:08,1568,4,4,CHI,26,"Punt by Jay-Jaymison (R), J. of 62 yards. No return.",5156,21,CHI,AZ ,CHI,74,16,23
+128,9,3,11:00,1560,1,10,CHI,12,"Pass by Jenkins, R. to Firestorm-Fjord (R), O. falls incomplete.",5156,21,CHI,AZ ,CHI,88,16,23
+129,9,3,10:55,1555,2,10,CHI,12,"Rush by Leaf Jr., R. for 9 yds. Tackle by McKinnie, L..",5156,21,CHI,AZ ,CHI,88,16,23
+130,9,3,10:22,1522,3,1,CHI,21,"Rush by Utler, J. for 3 yds. Tackle by Smart (R), M..",5156,21,CHI,AZ ,CHI,79,16,23
+131,9,3,10:11,1511,1,10,CHI,24,"Pass by Jenkins, R., complete to O'Leary, S. for 24 yds. Tackle by Knight, L..",5156,21,CHI,AZ ,CHI,76,16,23
+132,9,3,9:20,1460,1,10,CHI,48,"Pass by Jenkins, R. to O'Leary, S. falls incomplete.",5156,21,CHI,AZ ,CHI,52,16,23
+133,9,3,9:15,1455,2,10,CHI,48,"Pass by Jenkins, R., complete to Espeeyeeseetee, A. for 20 yds. Tackle by Scarlett, D..",5156,21,CHI,AZ ,CHI,52,16,23
+134,9,3,8:29,1409,1,10,AZ ,32,"Rush by Utler, J. for 4 yds. Tackle by McKinnie, L..",5156,21,CHI,AZ ,CHI,32,16,23
+135,9,3,8:05,1385,2,6,AZ ,28,"Rush by Leaf Jr., R. for 2 yds. Tackle by McKinnie, L..",5156,21,CHI,AZ ,CHI,28,16,23
+136,9,3,7:40,1360,3,4,AZ ,26,"Rush by Leaf Jr., R. for 4 yds. Tackle by Wilf, G..",5156,21,CHI,AZ ,CHI,26,16,23
+137,9,3,7:18,1338,1,10,AZ ,22,"Rush by Leaf Jr., R. for a short gain. Tackle by Smart (R), M..",5156,21,CHI,AZ ,CHI,22,16,23
+138,9,3,7:00,1320,2,10,AZ ,22,"Pass by Jenkins, R., complete to Firestorm-Fjord (R), O. for 12 yds. Tackle by McKinnie, L..",5156,21,CHI,AZ ,CHI,22,16,23
+139,9,3,6:23,1283,1,10,AZ ,10,"Pass by Jenkins, R. to Leaf Jr., R. was dropped! Incomplete.",5156,21,CHI,AZ ,CHI,10,16,23
+140,9,3,6:16,1276,2,10,AZ ,10,"Pass by Jenkins, R., complete to O'Leary, S. for 10 yds.",5156,21,CHI,AZ ,CHI,10,16,23
+141,9,3,5:51,1251,,,,,TOUCHDOWN! (Espinosa kick NO good),5156,21,CHI,AZ ,CHI,,16,29
+142,9,3,5:51,1251,,,CHI,30,"Espinosa, D. kicks off.",5156,21,CHI,AZ ,CHI,70,16,29
+143,4,3,5:51,1251,,,AZ ,32,"Kickoff of 63 yards. Returned by Knight, L. for 25 yards.",5156,21,CHI,AZ ,AZ,32,16,29
+144,4,3,5:46,1246,1,10,AZ ,32,"Pass by Cue, J., complete to Bur'Berry, J. for 10 yds. Tackle by Z, D..",5156,21,CHI,AZ ,AZ,32,16,29
+145,4,3,5:07,1207,1,10,AZ ,42,"Pass by Cue, J., complete to Donut, S. for 6 yds. Tackle by Hockhertz, M..",5156,21,CHI,AZ ,AZ,42,16,29
+146,4,3,4:34,1174,2,4,AZ ,48,"Pass by Cue, J. to Irving, J. falls incomplete.",5156,21,CHI,AZ ,AZ,48,16,29
+147,4,3,4:27,1167,3,9,AZ ,43,"Outlaws Penalty on Block, T.: False Start.",5156,21,CHI,AZ ,AZ,43,16,29
+148,4,3,4:27,1167,3,9,AZ ,43,"Rush by Ruff, R. for 8 yds. Tackle by Hockhertz, M..",5156,21,CHI,AZ ,AZ,43,16,29
+149,9,3,4:03,1143,4,1,AZ ,49,"Punt by Jay-Jaymison (R), J. of 30 yards.",5156,21,CHI,AZ ,CHI,49,16,29
+150,9,3,4:03,1143,,,,,"Returned by Leaf Jr., R. for 3 yards.",5156,21,CHI,AZ ,CHI,,16,29
+151,9,3,3:49,1129,1,10,CHI,22,"Jenkins, R. SACKED by Shane Masters - DT for -5 yds.",5156,21,CHI,AZ ,CHI,78,16,29
+152,9,3,3:23,1103,2,15,CHI,17,"Jenkins, R. SACKED by Ricardo Morris - DT for -10 yds.",5156,21,CHI,AZ ,CHI,83,16,29
+153,9,3,2:45,1065,3,25,CHI,7,"Pass by Jenkins, R., complete to Firestorm-Fjord (R), O. for 9 yds. Tackle by Montgomery, B..",5156,21,CHI,AZ ,CHI,93,16,29
+154,4,3,2:07,1027,4,16,AZ ,16,"Punt by Espinosa, D. of 45 yards.",5156,21,CHI,AZ ,AZ,16,16,29
+155,4,3,2:07,1027,,,,,"Knight, L. returns the punt down the left side.",5156,21,CHI,AZ ,AZ,,16,29
+156,4,3,2:07,1027,,,,,"Knight, L. gets out of a tackle.",5156,21,CHI,AZ ,AZ,,16,29
+157,4,3,2:07,1027,,,,,"Returned by Knight, L. for 61 yards.",5156,21,CHI,AZ ,AZ,,16,29
+158,4,3,1:57,1017,,,,,TOUCHDOWN! (Jay-Jaymison (R) kick good),5156,21,CHI,AZ ,AZ,,23,29
+159,4,3,1:57,1017,,,AZ ,30,"Jay-Jaymison (R), J. kicks off.",5156,21,CHI,AZ ,AZ,30,23,29
+160,9,3,1:57,1017,,,,,"Espeeyeeseetee, A. takes it down the middle.",5156,21,CHI,AZ ,CHI,,23,29
+161,9,3,1:57,1017,,,,,"Espeeyeeseetee, A. is finally brought down. A 31 yard return.",5156,21,CHI,AZ ,CHI,,23,29
+162,9,3,1:49,1009,1,10,CHI,32,"Pass by Jenkins, R., complete to Leaf Jr., R. for 18 yds. Tackle by McKinnie, L..",5156,21,CHI,AZ ,CHI,68,23,29
+163,9,3,0:58,958,1,10,CHI,50,"Pass by Jenkins, R. to Leaf Jr., R. was dropped! Incomplete.",5156,21,CHI,AZ ,CHI,50,23,29
+164,9,3,0:53,953,2,10,CHI,50,"Rush by Leaf Jr., R. for 1 yds. Tackle by Masters, S..",5156,21,CHI,AZ ,CHI,50,23,29
+165,9,3,0:25,925,3,9,AZ ,49,"Pass by Jenkins, R. to Leaf Jr., R. is incomplete. Broken up by Montgomery, B..",5156,21,CHI,AZ ,CHI,49,23,29
+166,4,3,0:21,921,4,9,CHI,49,"Punt by Espinosa, D. of 46 yards. No return.",5156,21,CHI,AZ ,AZ,49,23,29
+167,4,3,0:13,913,1,10,AZ ,3,"Rush by Cue, J. for 5 yds. Tackle by Rambo, J..",5156,21,CHI,AZ ,AZ,3,23,29
+168,4,4,15:00,900,2,5,AZ ,8,"Pass by Cue, J. to Bur'Berry, J. was dropped! Incomplete.",5156,21,CHI,AZ ,AZ,8,23,29
+169,4,4,14:57,897,3,5,AZ ,8,"Pass by Cue, J., complete to Donut, S. for 24 yds. Tackle by Beat, N..",5156,21,CHI,AZ ,AZ,8,23,29
+170,4,4,14:03,843,1,10,AZ ,32,"Pass by Cue, J. to Irving, J. is incomplete. Broken up by Ridley, X..",5156,21,CHI,AZ ,AZ,32,23,29
+171,4,4,13:58,838,2,10,AZ ,32,"Pass by Cue, J. to Bur'Berry, J. falls incomplete.",5156,21,CHI,AZ ,AZ,32,23,29
+172,4,4,13:52,832,3,10,AZ ,32,"Pass by Cue, J., complete to Donut, S. for 19 yds. Tackle by Castle, S..",5156,21,CHI,AZ ,AZ,32,23,29
+173,4,4,13:03,783,1,10,CHI,49,"Cue, J. SACKED by Jack Rambo - FS for -6 yds.",5156,21,CHI,AZ ,AZ,49,23,29
+174,4,4,12:36,756,2,16,AZ ,45,"Pass by Cue, J. to Hardagain, W. is incomplete. Broken up by Hockhertz, M..",5156,21,CHI,AZ ,AZ,45,23,29
+175,4,4,12:33,753,3,16,AZ ,45,"Pass by Cue, J. to Bur'Berry, J. is incomplete. Broken up by Lee, L..",5156,21,CHI,AZ ,AZ,45,23,29
+176,9,4,12:28,748,4,16,CHI,45,"Punt by Jay-Jaymison (R), J. of 54 yards. No return.",5156,21,CHI,AZ ,CHI,55,23,29
+177,9,4,12:22,742,1,10,CHI,1,"Rush by Utler, J. for 5 yds. Tackle by Wilf, G..",5156,21,CHI,AZ ,CHI,99,23,29
+178,9,4,12:02,722,2,5,CHI,6,"Pass by Jenkins, R., complete to O'Leary, S. for 22 yds. Tackle by Knight, L..",5156,21,CHI,AZ ,CHI,94,23,29
+179,9,4,11:11,671,1,10,CHI,28,"Jenkins, R. SACKED by Galf Wilf - LB for -5 yds.",5156,21,CHI,AZ ,CHI,72,23,29
+180,9,4,10:50,650,2,15,CHI,23,"Rush by Utler, J. for 6 yds. Tackle by Wilf, G..",5156,21,CHI,AZ ,CHI,77,23,29
+181,9,4,10:26,626,3,9,CHI,29,"Pass by Jenkins, R. to Leaf Jr., R. is incomplete. Broken up by Smart (R), M..",5156,21,CHI,AZ ,CHI,71,23,29
+182,4,4,10:23,623,4,9,AZ ,29,"Punt by Espinosa, D. of 66 yards. No return.",5156,21,CHI,AZ ,AZ,29,23,29
+183,4,4,10:14,614,1,10,AZ ,5,"Rush by Cue, J. for 4 yds. Tackle by Vassallo, S..",5156,21,CHI,AZ ,AZ,5,23,29
+184,4,4,9:52,592,2,6,AZ ,9,"Pass by Cue, J. to Bur'Berry, J. is incomplete. Broken up by Z, D..",5156,21,CHI,AZ ,AZ,9,23,29
+185,4,4,9:45,585,3,6,AZ ,9,"Pass by Cue, J., complete to Irving, J. for 38 yds. Tackle by Castle, S..",5156,21,CHI,AZ ,AZ,9,23,29
+186,4,4,8:37,517,1,10,AZ ,47,"Pass by Cue, J. to Bur'Berry, J. falls incomplete.",5156,21,CHI,AZ ,AZ,47,23,29
+187,4,4,8:31,511,2,10,AZ ,47,"Rush by Ruff, R. for 4 yds. Tackle by Hockhertz, M..",5156,21,CHI,AZ ,AZ,47,23,29
+188,4,4,8:14,494,3,6,CHI,49,"Pass by Cue, J., complete to Hardagain, W. for 4 yds. Tackle by Lee, L..",5156,21,CHI,AZ ,AZ,49,23,29
+189,9,4,7:43,463,4,2,AZ ,45,"Punt by Jay-Jaymison (R), J. of 45 yards. Touchback.",5156,21,CHI,AZ ,CHI,45,23,29
+190,9,4,7:38,458,1,10,CHI,20,"Pass by Jenkins, R., complete to Leaf Jr., R. for 34 yds. Tackle by McKinnie, L..",5156,21,CHI,AZ ,CHI,80,23,29
+191,9,4,6:38,398,1,10,AZ ,46,"Rush by Utler, J. for 6 yds. Tackle by Wilf, G..",5156,21,CHI,AZ ,CHI,46,23,29
+192,9,4,6:24,384,2,4,AZ ,40,"Pass by Jenkins, R. to O'Leary, S. is incomplete. Broken up by Knight, L..",5156,21,CHI,AZ ,CHI,40,23,29
+193,9,4,6:17,377,3,4,AZ ,40,"Pass by Jenkins, R. to Leaf Jr., R. was dropped! Incomplete.",5156,21,CHI,AZ ,CHI,40,23,29
+194,9,4,6:14,374,4,4,AZ ,40,"Rush by Utler, J. for 1 yds. Tackle by Miller (R), P..",5156,21,CHI,AZ ,CHI,40,23,29
+195,9,4,6:14,374,4,3,AZ ,39,Turnover on downs.,5156,21,CHI,AZ ,CHI,39,23,29
+196,4,4,6:07,367,1,10,AZ ,39,"Pass by Cue, J., complete to Ruff, R. for 6 yds. Tackle by Lee, L..",5156,21,CHI,AZ ,AZ,39,23,29
+197,4,4,5:35,335,2,4,AZ ,45,"Rush by Ruff, R. for 7 yds. Tackle by Lee, L..",5156,21,CHI,AZ ,AZ,45,23,29
+198,4,4,5:18,318,1,10,CHI,48,"Pass by Cue, J., complete to Bur'Berry, J. for 21 yds. Tackle by Beat, N..",5156,21,CHI,AZ ,AZ,48,23,29
+199,4,4,4:26,266,1,10,CHI,27,"Pass by Cue, J., complete to Hardagain, W. for 4 yds. Tackle by Z, D..",5156,21,CHI,AZ ,AZ,27,23,29
+200,4,4,3:55,235,2,6,CHI,23,"Pass by Cue, J. to Ruff, R. was dropped! Incomplete.",5156,21,CHI,AZ ,AZ,23,23,29
+201,4,4,3:48,228,3,6,CHI,23,"Pass by Cue, J., complete to Irving, J. for 8 yds. Tackle by Ridley, X..",5156,21,CHI,AZ ,AZ,23,23,29
+202,4,4,3:14,194,1,10,CHI,15,"Rush by Ruff, R. for 6 yds. Tackle by Lee, L..",5156,21,CHI,AZ ,AZ,15,23,29
+203,4,4,2:53,173,2,4,CHI,9,"Pass by Cue, J., complete to Hardagain, W. for 4 yds. Tackle by Hockhertz, M..",5156,21,CHI,AZ ,AZ,9,23,29
+204,4,4,2:53,173,1,5,CHI,5,Cue spikes the ball to stop the clock,5156,21,CHI,AZ ,AZ,5,23,29
+205,4,4,2:20,140,2,3,CHI,3,"Butchers Penalty on Hockhertz, M.: Offsides.",5156,21,CHI,AZ ,AZ,3,23,29
+206,4,4,2:20,140,2,3,CHI,3,"Rush by Cue, J. for a short gain. Tackle by Harris, B..",5156,21,CHI,AZ ,AZ,3,23,29
+207,4,4,2:01,121,3,3,CHI,3,"Pass by Cue, J. to Ruff, R. was dropped! Incomplete.",5156,21,CHI,AZ ,AZ,3,23,29
+208,4,4,1:56,116,4,3,CHI,3,"Pass by Cue, J. to Ruff, R. falls incomplete.",5156,21,CHI,AZ ,AZ,3,23,29
+209,4,4,1:56,116,4,3,CHI,3,Turnover on downs.,5156,21,CHI,AZ ,AZ,3,23,29
+210,9,4,1:52,112,1,10,CHI,3,"Rush by Leaf Jr., R. for 12 yds. Tackle by McKinnie, L..",5156,21,CHI,AZ ,CHI,97,23,29
+211,9,4,1:14,74,1,10,CHI,15,"Rush by Leaf Jr., R. for 4 yds. Tackle by Wilf, G..",5156,21,CHI,AZ ,CHI,85,23,29
+212,9,4,0:39,39,2,6,CHI,19,"Rush by Leaf Jr., R. for 13 yds. Tackle by McKinnie, L..",5156,21,CHI,AZ ,CHI,81,23,29
+213,9,4,0:08,8,1,10,CHI,32,"Rush by Leaf Jr., R. for 12 yds. Tackle by Wilf, G..",5156,21,CHI,AZ ,CHI,68,23,29
+0,5,1,15:00,3600,,,OCO,30,"Dasistwirklichseinnachname, A. kicks off.",5157,21,OCO,SJS,OCO,70,0,0
+1,6,1,15:00,3600,,,,,"Thomas-Fox, D. takes it down the middle.",5157,21,OCO,SJS,SJS,,0,0
+2,6,1,15:00,3600,,,,,"Thomas-Fox, D. is finally brought down. A 33 yard return.",5157,21,OCO,SJS,SJS,,0,0
+3,6,1,14:53,3593,1,10,SJS,40,"Rush by Tyerucker, Q. for 10 yds. Tackle by Biggums, T..",5157,21,OCO,SJS,SJS,60,0,0
+4,6,1,14:08,3548,1,10,SJS,50,"Rush by Cardrissian (R), R. for 1 yds. Tackle by Eagle (R), R..",5157,21,OCO,SJS,SJS,50,0,0
+5,6,1,13:44,3524,2,9,OCO,49,"Rush by Cardrissian (R), R. for 3 yds. Tackle by Grievous, L..",5157,21,OCO,SJS,SJS,49,0,0
+6,6,1,13:18,3498,3,6,OCO,46,"Wright, D. SACKED by Lanzer Grievous - LB for -11 yds.",5157,21,OCO,SJS,SJS,46,0,0
+7,5,1,12:30,3450,4,17,OCO,43,"Punt by Bobby, K. of 41 yards.",5157,21,OCO,SJS,OCO,57,0,0
+8,5,1,12:30,3450,,,,,"Returned by Banks II, D. for 16 yards.",5157,21,OCO,SJS,OCO,,0,0
+9,5,1,12:21,3441,1,10,OCO,42,"SaberCats Penalty on Tuck, J.: Tripping.",5157,21,OCO,SJS,OCO,58,0,0
+10,5,1,12:12,3432,1,10,OCO,42,"Rush by Sarvepally (R), S. for 5 yds. Tackle by Brackenridge, T..",5157,21,OCO,SJS,OCO,58,0,0
+11,5,1,11:49,3409,2,5,OCO,47,"Armstrong, F. SACKED by Brayden Ennis - DT for -5 yds.",5157,21,OCO,SJS,OCO,53,0,0
+12,5,1,11:18,3378,3,10,OCO,42,"Pass by Armstrong, F., complete to Banks II, D. for 7 yds. Tackle by PickSix (R), H..",5157,21,OCO,SJS,OCO,58,0,0
+13,6,1,10:45,3345,4,3,SJS,49,"Punt by Dasistwirklichseinnachname, A. of 38 yards.",5157,21,OCO,SJS,SJS,51,0,0
+14,6,1,10:45,3345,,,,,"Returned by Staley, T. for 0 yards.",5157,21,OCO,SJS,SJS,,0,0
+15,6,1,10:36,3336,1,10,SJS,13,"Rush by Cardrissian (R), R. for 4 yds. Tackle by Storm, J..",5157,21,OCO,SJS,SJS,87,0,0
+16,6,1,10:04,3304,2,6,SJS,17,"Wright, D. SACKED by David Ginsberg - LB for -11 yds.",5157,21,OCO,SJS,SJS,83,0,0
+17,6,1,9:21,3261,3,17,SJS,6,"Pass by Wright, D. to McDavid (R), L. falls incomplete.",5157,21,OCO,SJS,SJS,94,0,0
+18,5,1,9:16,3256,4,17,OCO,6,"Punt by Bobby, K. of 37 yards.",5157,21,OCO,SJS,OCO,94,0,0
+19,5,1,9:16,3256,,,,,"Returned by Banks II, D. for 3 yards.",5157,21,OCO,SJS,OCO,,0,0
+20,5,1,9:02,3242,1,10,SJS,40,"Pass by Armstrong, F. to Banks II, D. falls incomplete.",5157,21,OCO,SJS,OCO,40,0,0
+21,5,1,8:56,3236,2,10,SJS,40,"Rush by Sarvepally (R), S. for 5 yds. Tackle by Tuck, J..",5157,21,OCO,SJS,OCO,40,0,0
+22,5,1,8:23,3203,3,5,SJS,35,"Rush by Bigby, L. for 10 yds. Tackle by Swift, T..",5157,21,OCO,SJS,OCO,35,0,0
+23,5,1,7:49,3169,1,10,SJS,25,"Rush by Bigby, L. for 5 yds. Tackle by Deck, I..",5157,21,OCO,SJS,OCO,25,0,0
+24,5,1,7:22,3142,2,5,SJS,20,"Rush by Sarvepally (R), S. for 10 yds. Tackle by Wozniak, J..",5157,21,OCO,SJS,OCO,20,0,0
+25,5,1,6:44,3104,1,10,SJS,10,Rush by Siddhu Sarvepally (R) for 10 yds.,5157,21,OCO,SJS,OCO,10,0,0
+26,5,1,6:23,3083,,,,,TOUCHDOWN! (Dasistwirklichseinnachname kick good),5157,21,OCO,SJS,OCO,,0,7
+27,5,1,6:23,3083,,,OCO,30,"Dasistwirklichseinnachname, A. kicks off.",5157,21,OCO,SJS,OCO,70,0,7
+28,6,1,6:23,3083,,,,,The kick sails into the endzone.,5157,21,OCO,SJS,SJS,,0,7
+29,6,1,6:23,3083,,,,,"Staley, T. takes it out of the endzone!",5157,21,OCO,SJS,SJS,,0,7
+30,6,1,6:23,3083,,,SJS,18,"Kickoff of 79 yards. Returned by Staley, T. for 18 yards.",5157,21,OCO,SJS,SJS,82,0,7
+31,6,1,6:18,3078,1,10,SJS,18,"Rush by Wright, D. for 4 yds. Tackle by Ginsberg, D..",5157,21,OCO,SJS,SJS,82,0,7
+32,6,1,5:52,3052,2,6,SJS,22,"Rush by Tyerucker, Q. for 9 yds. Tackle by Abernathy, K..",5157,21,OCO,SJS,SJS,78,0,7
+33,6,1,5:12,3012,1,10,SJS,31,"Rush by Cardrissian (R), R. for 5 yds. Tackle by Grievous, L..",5157,21,OCO,SJS,SJS,69,0,7
+34,6,1,4:46,2986,2,5,SJS,36,"Rush by Cardrissian (R), R. for 1 yds. Tackle by Grievous, L..",5157,21,OCO,SJS,SJS,64,0,7
+35,6,1,4:21,2961,3,4,SJS,37,"Pass by Wright, D., complete to Cardrissian (R), R. for 9 yds. Tackle by Abernathy, K..",5157,21,OCO,SJS,SJS,63,0,7
+36,6,1,3:52,2932,1,10,SJS,46,"Pass by Wright, D. to Thomas-Fox, D. is incomplete. Broken up by Lattimer, A..",5157,21,OCO,SJS,SJS,54,0,7
+37,6,1,3:45,2925,2,10,SJS,46,"Rush by Wright, D. for a short gain. Tackle by Boucher (R), B..",5157,21,OCO,SJS,SJS,54,0,7
+38,6,1,3:24,2904,3,10,SJS,46,"Pass by Wright, D., complete to Bot, B. for 6 yds. Tackle by Abernathy, K..",5157,21,OCO,SJS,SJS,54,0,7
+39,5,1,2:54,2874,4,4,SJS,47,"Punt by Bobby, K. of 34 yards. No return.",5157,21,OCO,SJS,OCO,47,0,7
+40,5,1,2:47,2867,1,10,OCO,13,"Rush by Bigby, L. for 4 yds. Tackle by Swift, T..",5157,21,OCO,SJS,OCO,87,0,7
+41,5,1,2:16,2836,2,6,OCO,17,"Rush by Armstrong, F. for 21 yds. Tackle by Staley, T.. FUMBLE recovered by Wozniak, J. at the OCO - 38 yard line and returned for 9 yards.",5157,21,OCO,SJS,OCO,83,0,7
+42,6,1,1:47,2807,1,10,OCO,29,"Rush by Tyerucker, Q. for 9 yds. Tackle by Grievous, L..",5157,21,OCO,SJS,SJS,29,0,7
+43,6,1,1:28,2788,2,1,OCO,20,"Pass by Wright, D. to Jackson, A. falls incomplete.",5157,21,OCO,SJS,SJS,20,0,7
+44,6,1,1:24,2784,3,1,OCO,20,"Rush by Tyerucker, Q. for 6 yds. Tackle by Vegeta (R), P..",5157,21,OCO,SJS,SJS,20,0,7
+45,6,1,0:57,2757,1,10,OCO,14,"Rush by Tyerucker, Q. for 3 yds. Tackle by Grievous, L..",5157,21,OCO,SJS,SJS,14,0,7
+46,6,1,0:34,2734,2,2,OCO,6,"Otters Penalty on Eagle (R), R.: Offsides.",5157,21,OCO,SJS,SJS,6,0,7
+47,6,1,0:34,2734,2,2,OCO,6,"Pass by Wright, D. to Jackson, A. is incomplete. Broken up by Ginsberg, D..",5157,21,OCO,SJS,SJS,6,0,7
+48,6,1,0:29,2729,3,2,OCO,6,"Pass by Wright, D. to Thomas-Fox, D. falls incomplete.",5157,21,OCO,SJS,SJS,6,0,7
+49,6,1,0:25,2725,4,2,OCO,6,"23 yard FG by Bobby, K. is good.",5157,21,OCO,SJS,SJS,6,3,7
+50,6,1,0:25,2725,,,SJS,30,"Bobby, K. kicks off.",5157,21,OCO,SJS,SJS,70,3,7
+51,5,1,0:25,2725,,,,,"Lattimer, A. takes it down the right side.",5157,21,OCO,SJS,OCO,,3,7
+52,5,1,0:25,2725,,,,,"Lattimer, A. waits for blockers.",5157,21,OCO,SJS,OCO,,3,7
+53,5,1,0:25,2725,,,,,A 42 yard return.,5157,21,OCO,SJS,OCO,,3,7
+54,5,1,0:17,2717,1,10,OCO,46,"Rush by Armstrong, F. for 1 yds. Tackle by Deck, I..",5157,21,OCO,SJS,OCO,54,3,7
+55,5,1,0:00,2700,2,9,OCO,47,"Pass by Armstrong, F. to Blaze, J. falls incomplete.",5157,21,OCO,SJS,OCO,53,3,7
+56,5,2,15:00,2700,3,9,OCO,47,"Pass by Armstrong, F., complete to Blaze, J. for 11 yds. Tackle by Tuck, J..",5157,21,OCO,SJS,OCO,53,3,7
+57,5,2,14:24,2664,1,10,SJS,42,"Pass by Armstrong, F., complete to Mongo, H. for 8 yds. Tackle by Swift, T..",5157,21,OCO,SJS,OCO,42,3,7
+58,5,2,13:44,2624,2,2,SJS,34,"Pass by Armstrong, F., complete to Blaze, J. for 5 yds. Tackle by Tuck, J..",5157,21,OCO,SJS,OCO,34,3,7
+59,5,2,13:03,2583,1,10,SJS,29,"Pass by Armstrong, F., complete to Banks II, D. for 19 yds. Tackle by PickSix (R), H..",5157,21,OCO,SJS,OCO,29,3,7
+60,5,2,12:07,2527,1,10,SJS,10,"Rush by Armstrong, F. for 3 yds. Tackle by Riposte, F..",5157,21,OCO,SJS,OCO,10,3,7
+61,5,2,11:41,2501,2,7,SJS,7,"Pass by Armstrong, F., to Kurisuto (R), R.. INTERCEPTION by Swift, T. at the SJS - 3 yard line and returned for 71 yards.",5157,21,OCO,SJS,OCO,7,3,7
+62,6,2,11:08,2468,1,10,OCO,26,"Rush by Tyerucker, Q. for 4 yds. Tackle by Biggums, T..",5157,21,OCO,SJS,SJS,26,3,7
+63,6,2,10:29,2429,2,6,OCO,22,"Rush by Cardrissian (R), R. for 1 yds. Tackle by Lazer-Eyes, G..",5157,21,OCO,SJS,SJS,22,3,7
+64,6,2,10:03,2403,3,5,OCO,21,"Rush by Cardrissian (R), R. for 4 yds. Tackle by Vegeta (R), P..",5157,21,OCO,SJS,SJS,21,3,7
+65,6,2,9:22,2362,4,1,OCO,17,"34 yard FG by Bobby, K. is NO good.",5157,21,OCO,SJS,SJS,17,3,7
+66,5,2,9:22,2362,1,10,OCO,17,"Pass by Armstrong, F. to Banks II, D. falls incomplete.",5157,21,OCO,SJS,OCO,83,3,7
+67,5,2,9:19,2359,2,10,OCO,17,"Rush by Bigby, L. for 7 yds. Tackle by Tuck, J..",5157,21,OCO,SJS,OCO,83,3,7
+68,5,2,8:52,2332,3,3,OCO,24,"Pass by Armstrong, F., complete to Blaze, J. for 16 yds. Tackle by Swift, T..",5157,21,OCO,SJS,OCO,76,3,7
+69,5,2,8:11,2291,1,10,OCO,40,"Rush by Bigby, L. for 9 yds. Tackle by Tuck, J..",5157,21,OCO,SJS,OCO,60,3,7
+70,5,2,7:40,2260,2,1,OCO,49,"Pass by Armstrong, F., complete to Banks II, D. for 9 yds. Tackle by Staley, T..",5157,21,OCO,SJS,OCO,51,3,7
+71,5,2,7:03,2223,1,10,SJS,42,"Rush by Sarvepally (R), S. for 7 yds. Tackle by Brackenridge, T..",5157,21,OCO,SJS,OCO,42,3,7
+72,5,2,6:37,2197,2,3,SJS,35,"Pass by Armstrong, F., complete to Bigby, L. for 8 yds. Tackle by Brackenridge, T..",5157,21,OCO,SJS,OCO,35,3,7
+73,5,2,5:59,2159,1,10,SJS,27,"Rush by Bigby, L. for a short gain. Tackle by Ennis, B..",5157,21,OCO,SJS,OCO,27,3,7
+74,5,2,5:40,2140,2,10,SJS,27,"Pass by Armstrong, F., complete to Banks II, D. for 27 yds.",5157,21,OCO,SJS,OCO,27,3,7
+75,5,2,4:58,2098,,,,,TOUCHDOWN! (Dasistwirklichseinnachname kick good),5157,21,OCO,SJS,OCO,,3,14
+76,5,2,4:58,2098,,,OCO,30,"Dasistwirklichseinnachname, A. kicks off.",5157,21,OCO,SJS,OCO,70,3,14
+77,6,2,4:58,2098,,,,,The kick sails into the endzone.,5157,21,OCO,SJS,SJS,,3,14
+78,6,2,4:58,2098,,,,,"Staley, T. takes it out of the endzone!",5157,21,OCO,SJS,SJS,,3,14
+79,6,2,4:58,2098,,,SJS,24,"Kickoff of 84 yards. Returned by Staley, T. for 24 yards.",5157,21,OCO,SJS,SJS,76,3,14
+80,6,2,4:48,2088,1,10,SJS,24,"Pass by Wright, D. to Tyerucker, Q. was dropped! Incomplete.",5157,21,OCO,SJS,SJS,76,3,14
+81,6,2,4:41,2081,2,10,SJS,24,"Rush by Tyerucker, Q. for 4 yds. Tackle by Storm, J..",5157,21,OCO,SJS,SJS,76,3,14
+82,6,2,4:01,2041,3,6,SJS,28,"Pass by Wright, D. to Thomas-Fox, D. is incomplete. Broken up by Dream, K..",5157,21,OCO,SJS,SJS,72,3,14
+83,5,2,3:54,2034,4,6,OCO,28,"Punt by Bobby, K. of 45 yards.",5157,21,OCO,SJS,OCO,72,3,14
+84,5,2,3:54,2034,,,,,"Returned by Banks II, D. for 17 yards.",5157,21,OCO,SJS,OCO,,3,14
+85,5,2,3:40,2020,1,10,OCO,43,"Rush by Bigby, L. for 6 yds. Tackle by Burr-Kirven, J..",5157,21,OCO,SJS,OCO,57,3,14
+86,5,2,3:16,1996,2,4,OCO,49,"Rush by Sarvepally (R), S. for 2 yds. Tackle by Tuck, J..",5157,21,OCO,SJS,OCO,51,3,14
+87,5,2,2:41,1961,3,2,SJS,48,"Pass by Armstrong, F., complete to Blaze, J. for 37 yds. Tackle by PickSix (R), H..",5157,21,OCO,SJS,OCO,48,3,14
+88,5,2,2:41,1961,1,10,SJS,11,Orange County Otters : Timeout,5157,21,OCO,SJS,OCO,11,3,14
+89,5,2,1:46,1906,1,10,SJS,11,"Rush by Sarvepally (R), S. for 5 yds. Tackle by Tuck, J..",5157,21,OCO,SJS,OCO,11,3,14
+90,5,2,1:46,1906,2,5,SJS,6,Orange County Otters : Timeout,5157,21,OCO,SJS,OCO,6,3,14
+91,5,2,1:27,1887,2,5,SJS,6,"Rush by Bigby, L. for 2 yds. Tackle by Brackenridge, T..",5157,21,OCO,SJS,OCO,6,3,14
+92,5,2,1:27,1887,3,3,SJS,4,Orange County Otters : Timeout,5157,21,OCO,SJS,OCO,4,3,14
+93,5,2,1:12,1872,3,3,SJS,4,"Rush by Armstrong, F. for 0 yds. Tackle by Burr-Kirven, J..",5157,21,OCO,SJS,OCO,4,3,14
+94,5,2,0:43,1843,4,3,SJS,4,"21 yard FG by Dasistwirklichseinnachname, A. is good.",5157,21,OCO,SJS,OCO,4,3,17
+95,5,2,0:43,1843,,,OCO,30,"Dasistwirklichseinnachname, A. kicks off.",5157,21,OCO,SJS,OCO,70,3,17
+96,6,2,0:43,1843,,,,,The kick sails into the endzone.,5157,21,OCO,SJS,SJS,,3,17
+97,6,2,0:43,1843,,,,,"Staley, T. takes it out of the endzone!",5157,21,OCO,SJS,SJS,,3,17
+98,6,2,0:43,1843,,,SJS,13,"Kickoff of 76 yards. Returned by Staley, T. for 13 yards.",5157,21,OCO,SJS,SJS,87,3,17
+99,6,2,0:40,1840,1,10,SJS,13,"Pass by Wright, D., complete to McDavid (R), L. for 10 yds. Tackle by Biggums, T..",5157,21,OCO,SJS,SJS,87,3,17
+100,6,2,0:40,1840,1,10,SJS,23,San Jose SaberCats : Timeout,5157,21,OCO,SJS,SJS,77,3,17
+101,6,2,0:17,1817,1,10,SJS,23,"Pass by Wright, D. to Jackson, A. was dropped! Incomplete.",5157,21,OCO,SJS,SJS,77,3,17
+102,6,2,0:10,1810,2,10,SJS,23,"Pass by Wright, D. to Bot, B. was dropped! Incomplete.",5157,21,OCO,SJS,SJS,77,3,17
+103,6,2,0:03,1803,3,10,SJS,23,"Pass by Wright, D. to Thomas-Fox, D. is incomplete. Broken up by Dream, K..",5157,21,OCO,SJS,SJS,77,3,17
+104,6,3,15:00,1800,,,SJS,30,"Bobby, K. kicks off.",5157,21,OCO,SJS,SJS,70,3,17
+105,5,3,15:00,1800,,,OCO,33,"Kickoff of 66 yards. Returned by Lattimer, A. for 29 yards.",5157,21,OCO,SJS,OCO,67,3,17
+106,5,3,14:52,1792,1,10,OCO,33,"Rush by Armstrong, F. for 1 yds. Tackle by Wozniak, J..",5157,21,OCO,SJS,OCO,67,3,17
+107,5,3,14:16,1756,2,19,OCO,24,"Otters Penalty on Kurisuto (R), R.: Holding.",5157,21,OCO,SJS,OCO,76,3,17
+108,5,3,13:55,1735,2,19,OCO,24,"Pass by Armstrong, F., complete to Banks II, D. for 19 yds. Tackle by Wozniak, J..",5157,21,OCO,SJS,OCO,76,3,17
+109,5,3,13:10,1690,1,10,OCO,43,"Rush by Sarvepally (R), S. for 5 yds. Tackle by Deck, I..",5157,21,OCO,SJS,OCO,57,3,17
+110,5,3,12:38,1658,2,5,OCO,48,"Pass by Armstrong, F., complete to Blaze, J. for 8 yds. Tackle by Deck, I..",5157,21,OCO,SJS,OCO,52,3,17
+111,5,3,11:54,1614,1,10,SJS,44,"Rush by Bigby, L. for 2 yds. Tackle by Ennis, B..",5157,21,OCO,SJS,OCO,44,3,17
+112,5,3,11:35,1595,2,3,SJS,37,"SaberCats Penalty on Allen (R), O.: Too many men on the field.",5157,21,OCO,SJS,OCO,37,3,17
+113,5,3,11:35,1595,2,3,SJS,37,"Rush by Bigby, L. for 6 yds. Tackle by Deck, I..",5157,21,OCO,SJS,OCO,37,3,17
+114,5,3,11:06,1566,1,10,SJS,31,"Rush by Armstrong, F. for 1 yds. Tackle by Brackenridge, T..",5157,21,OCO,SJS,OCO,31,3,17
+115,5,3,10:43,1543,2,9,SJS,30,"Pass by Armstrong, F., complete to Mongo, H. for 30 yds.",5157,21,OCO,SJS,OCO,30,3,17
+116,5,3,9:52,1492,,,,,TOUCHDOWN! (Dasistwirklichseinnachname kick good),5157,21,OCO,SJS,OCO,,3,24
+117,5,3,9:52,1492,,,OCO,30,"Dasistwirklichseinnachname, A. kicks off.",5157,21,OCO,SJS,OCO,70,3,24
+118,6,3,9:52,1492,,,,,The kick sails into the endzone.,5157,21,OCO,SJS,SJS,,3,24
+119,6,3,9:52,1492,,,,,"Staley, T. takes it out of the endzone!",5157,21,OCO,SJS,SJS,,3,24
+120,6,3,9:52,1492,,,SJS,9,"Kickoff of 75 yards. Returned by Staley, T. for 9 yards.",5157,21,OCO,SJS,SJS,91,3,24
+121,6,3,9:49,1489,1,10,SJS,9,"Rush by Tyerucker, Q. for 6 yds. Tackle by Grievous, L..",5157,21,OCO,SJS,SJS,91,3,24
+122,6,3,9:09,1449,1,10,SJS,20,"Otters Penalty on Eagle (R), R.: Offsides.",5157,21,OCO,SJS,SJS,80,3,24
+123,6,3,9:09,1449,1,20,SJS,10,"SaberCats Penalty on Thomas-Fox, D.: Illegal block below the waist.",5157,21,OCO,SJS,SJS,90,3,24
+124,6,3,8:35,1415,1,20,SJS,10,"Pass by Wright, D. to Tyerucker, Q. was dropped! Incomplete.",5157,21,OCO,SJS,SJS,90,3,24
+125,6,3,8:28,1408,2,20,SJS,10,"Pass by Wright, D., complete to Jackson, A. for 36 yds. Tackle by Storm, J..",5157,21,OCO,SJS,SJS,90,3,24
+126,6,3,7:06,1326,1,15,SJS,41,"SaberCats Penalty on Johnson, R.: Illegal Shift.",5157,21,OCO,SJS,SJS,59,3,24
+127,6,3,7:06,1326,1,15,SJS,41,"Rush by Wright, D. for 9 yds. Tackle by Dream, K..",5157,21,OCO,SJS,SJS,59,3,24
+128,6,3,6:11,1271,2,6,OCO,49,"Rush by Tyerucker, Q. for 7 yds. Tackle by Storm, J..",5157,21,OCO,SJS,SJS,49,3,24
+129,6,3,5:25,1225,1,10,OCO,42,"Pass by Wright, D., complete to Jackson, A. for 14 yds. Tackle by Dream, K..",5157,21,OCO,SJS,SJS,42,3,24
+130,6,3,4:32,1172,1,10,OCO,28,"Rush by Cardrissian (R), R. for 3 yds. Tackle by Vegeta (R), P..",5157,21,OCO,SJS,SJS,28,3,24
+131,6,3,3:55,1135,2,7,OCO,25,"Rush by Wright, D. for 6 yds. Tackle by Boucher (R), B..",5157,21,OCO,SJS,SJS,25,3,24
+132,6,3,3:32,1112,3,1,OCO,19,"Rush by Wright, D. for 6 yds. Tackle by Abernathy, K..",5157,21,OCO,SJS,SJS,19,3,24
+133,6,3,3:08,1088,1,10,OCO,13,"Rush by Cardrissian (R), R. for 5 yds. Tackle by Storm, J..",5157,21,OCO,SJS,SJS,13,3,24
+134,6,3,2:44,1064,2,5,OCO,8,"Rush by Tyerucker, Q. for a short gain. Tackle by Boucher (R), B..",5157,21,OCO,SJS,SJS,8,3,24
+135,6,3,2:31,1051,3,5,OCO,8,"Rush by Tyerucker, Q. for 6 yds. Tackle by Biggums, T..",5157,21,OCO,SJS,SJS,8,3,24
+136,6,3,2:10,1030,1,2,OCO,2,Rush by Dan Wright for 2 yds.,5157,21,OCO,SJS,SJS,2,3,24
+137,6,3,1:56,1016,,,,,TOUCHDOWN! (Bobby kick good),5157,21,OCO,SJS,SJS,,10,24
+138,6,3,1:56,1016,,,SJS,30,"Bobby, K. kicks off.",5157,21,OCO,SJS,SJS,70,10,24
+139,5,3,1:56,1016,,,OCO,20,"Kickoff of 67 yards. Returned by Lattimer, A. for 17 yards.",5157,21,OCO,SJS,OCO,80,10,24
+140,5,3,1:54,1014,1,5,OCO,25,"SaberCats Penalty on Wozniak, J.: Too many men on the field.",5157,21,OCO,SJS,OCO,75,10,24
+141,5,3,1:54,1014,1,5,OCO,25,"Rush by Sarvepally (R), S. for 4 yds. Tackle by Tuck, J..",5157,21,OCO,SJS,OCO,75,10,24
+142,5,3,1:20,980,2,1,OCO,29,"Rush by Sarvepally (R), S. for 7 yds. Tackle by Wozniak, J..",5157,21,OCO,SJS,OCO,71,10,24
+143,5,3,0:41,941,1,15,OCO,31,"Otters Penalty on Johns, A.: Illegal Substitution",5157,21,OCO,SJS,OCO,69,10,24
+144,5,3,0:41,941,1,15,OCO,31,"Rush by Sarvepally (R), S. for 3 yds. Tackle by Allen (R), O..",5157,21,OCO,SJS,OCO,69,10,24
+145,5,3,0:22,922,2,12,OCO,34,"Pass by Armstrong, F., complete to Mongo, H. for 9 yds. Tackle by Swift, T..",5157,21,OCO,SJS,OCO,66,10,24
+146,5,4,15:00,900,3,8,OCO,38,"Otters Penalty on Kurisuto (R), R.: Illegal Shift.",5157,21,OCO,SJS,OCO,62,10,24
+147,5,4,15:00,900,3,8,OCO,38,"Pass by Armstrong, F., complete to Blaze, J. for 36 yds. Tackle by Swift, T..",5157,21,OCO,SJS,OCO,62,10,24
+148,5,4,13:48,828,1,10,SJS,26,"Rush by Armstrong, F. for -2 yds. Tackle by Burr-Kirven, J..",5157,21,OCO,SJS,OCO,26,10,24
+149,5,4,13:20,800,2,12,SJS,28,"Pass by Armstrong, F. to Kurisuto (R), R. is incomplete. Broken up by Tuck, J..",5157,21,OCO,SJS,OCO,28,10,24
+150,5,4,13:17,797,3,12,SJS,28,"Pass by Armstrong, F., complete to Mongo, H. for 11 yds. Tackle by Swift, T..",5157,21,OCO,SJS,OCO,28,10,24
+151,5,4,12:30,750,4,1,SJS,17,"34 yard FG by Dasistwirklichseinnachname, A. is good.",5157,21,OCO,SJS,OCO,17,10,27
+152,5,4,12:30,750,,,OCO,30,"Dasistwirklichseinnachname, A. kicks off.",5157,21,OCO,SJS,OCO,70,10,27
+153,6,4,12:30,750,,,,,The kick sails into the endzone.,5157,21,OCO,SJS,SJS,,10,27
+154,6,4,12:30,750,,,,,"Staley, T. takes it out of the endzone!",5157,21,OCO,SJS,SJS,,10,27
+155,6,4,12:30,750,,,SJS,22,"Kickoff of 79 yards. Returned by Staley, T. for 22 yards.",5157,21,OCO,SJS,SJS,78,10,27
+156,6,4,12:22,742,1,10,SJS,22,"Rush by Tyerucker, Q. for 2 yds. Tackle by Vegeta (R), P..",5157,21,OCO,SJS,SJS,78,10,27
+157,6,4,11:47,707,2,8,SJS,24,"Rush by Cardrissian (R), R. for 6 yds. Tackle by Storm, J..",5157,21,OCO,SJS,SJS,76,10,27
+158,6,4,11:05,665,3,12,SJS,20,"SaberCats Penalty on Dodggy, B.: Holding.",5157,21,OCO,SJS,SJS,80,10,27
+159,6,4,10:50,650,3,12,SJS,20,"Pass by Wright, D., complete to Thomas-Fox, D. for 9 yds. Tackle by Abernathy, K..",5157,21,OCO,SJS,SJS,80,10,27
+160,5,4,9:55,595,4,3,OCO,29,"Punt by Bobby, K. of 42 yards.",5157,21,OCO,SJS,OCO,71,10,27
+161,5,4,9:55,595,,,,,"Returned by Banks II, D. for 9 yards.",5157,21,OCO,SJS,OCO,,10,27
+162,5,4,9:44,584,1,10,OCO,37,"Rush by Sarvepally (R), S. for 6 yds. Tackle by Deck, I..",5157,21,OCO,SJS,OCO,63,10,27
+163,5,4,9:16,556,2,4,OCO,43,"Rush by Armstrong, F. for 2 yds. Tackle by Riposte, F..",5157,21,OCO,SJS,OCO,57,10,27
+164,5,4,8:55,535,3,2,OCO,45,"Pass by Armstrong, F. to Z, D. was dropped! Incomplete.",5157,21,OCO,SJS,OCO,55,10,27
+165,6,4,8:49,529,4,2,SJS,45,"Punt by Dasistwirklichseinnachname, A. of 42 yards.",5157,21,OCO,SJS,SJS,55,10,27
+166,6,4,8:49,529,,,,,"Returned by Staley, T. for 16 yards.",5157,21,OCO,SJS,SJS,,10,27
+167,6,4,8:39,519,1,10,SJS,28,"Rush by Cardrissian (R), R. for 1 yds. Tackle by Eagle (R), R..",5157,21,OCO,SJS,SJS,72,10,27
+168,6,4,8:16,496,2,9,SJS,29,"Pass by Wright, D., complete to McDavid (R), L. for 5 yds. Tackle by Grievous, L..",5157,21,OCO,SJS,SJS,71,10,27
+169,6,4,7:43,463,3,4,SJS,34,"Rush by Wright, D. for 11 yds. Tackle by Biggums, T..",5157,21,OCO,SJS,SJS,66,10,27
+170,6,4,7:00,420,1,10,SJS,45,"Rush by Tyerucker, Q. for 6 yds. Tackle by Lazer-Eyes, G..",5157,21,OCO,SJS,SJS,55,10,27
+171,6,4,6:29,389,2,4,OCO,48,"Rush by Wright, D. for 8 yds. Tackle by Abernathy, K..",5157,21,OCO,SJS,SJS,48,10,27
+172,6,4,5:30,330,1,10,OCO,40,"Pass by Wright, D. to Jackson, A. is incomplete. Broken up by Dream, K..",5157,21,OCO,SJS,SJS,40,10,27
+173,6,4,5:25,325,2,10,OCO,40,"Pass by Wright, D., complete to Thomas-Fox, D. for 24 yds. Tackle by Abernathy, K..",5157,21,OCO,SJS,SJS,40,10,27
+174,6,4,4:14,254,1,10,OCO,16,"Rush by Tyerucker, Q. for a short gain. Tackle by Boucher (R), B..",5157,21,OCO,SJS,SJS,16,10,27
+175,6,4,3:44,224,2,10,OCO,16,"Rush by Tyerucker, Q. for 7 yds. Tackle by Storm, J..",5157,21,OCO,SJS,SJS,16,10,27
+176,6,4,3:26,206,3,3,OCO,9,"Wright, D. SACKED by Rapid Eagle (R) - DT for -6 yds.",5157,21,OCO,SJS,SJS,9,10,27
+177,6,4,3:02,182,4,9,OCO,15,"Pass by Wright, D., complete to Tyerucker, Q. for 6 yds. Tackle by Vegeta (R), P..",5157,21,OCO,SJS,SJS,15,10,27
+178,6,4,3:02,182,4,3,OCO,9,Turnover on downs.,5157,21,OCO,SJS,SJS,9,10,27
+179,5,4,2:34,154,1,10,OCO,9,"Pass by Armstrong, F. to Bigby, L. was dropped! Incomplete.",5157,21,OCO,SJS,OCO,91,10,27
+180,5,4,2:30,150,2,10,OCO,9,"Pass by Armstrong, F. to Kurisuto (R), R. was dropped! Incomplete.",5157,21,OCO,SJS,OCO,91,10,27
+181,5,4,2:25,145,3,10,OCO,9,"Pass by Armstrong, F., complete to Kurisuto (R), R. for 9 yds. Tackle by Swift, T..",5157,21,OCO,SJS,OCO,91,10,27
+182,6,4,1:39,99,4,1,SJS,18,"Punt by Dasistwirklichseinnachname, A. of 41 yards. No return.",5157,21,OCO,SJS,SJS,82,10,27
+183,6,4,1:29,89,1,10,SJS,40,"Pass by Wright, D., complete to McDavid (R), L. for 2 yds. Tackle by Grievous, L..",5157,21,OCO,SJS,SJS,60,10,27
+184,6,4,1:29,89,2,8,SJS,42,San Jose SaberCats : Timeout,5157,21,OCO,SJS,SJS,58,10,27
+185,6,4,1:11,71,2,8,SJS,42,"Pass by Wright, D., complete to McDavid (R), L. for 10 yds. Tackle by Vegeta (R), P..",5157,21,OCO,SJS,SJS,58,10,27
+186,6,4,1:11,71,1,10,OCO,47,San Jose SaberCats : Timeout,5157,21,OCO,SJS,SJS,47,10,27
+187,6,4,0:35,35,1,10,OCO,47,"Pass by Wright, D. to McDavid (R), L. falls incomplete.",5157,21,OCO,SJS,SJS,47,10,27
+188,6,4,0:30,30,2,10,OCO,47,"Pass by Wright, D., complete to Jackson, A. for 7 yds. Tackle by Lattimer, A..",5157,21,OCO,SJS,SJS,47,10,27
+189,6,4,0:30,30,3,3,OCO,40,San Jose SaberCats : Timeout,5157,21,OCO,SJS,SJS,40,10,27
+190,6,4,0:04,4,3,3,OCO,40,"Pass by Wright, D. to Jackson, A. falls incomplete.",5157,21,OCO,SJS,SJS,40,10,27
+0,8,1,15:00,3600,,,NO ,30,"Prohaska, H. kicks off.",5158,21,NO ,AUS,NO ,70,0,0
+1,10,1,15:00,3600,,,,,The kick sails into the endzone.,5158,21,NO ,AUS,AUS,,0,0
+2,10,1,15:00,3600,,,,,"Moreno, V. takes it out of the endzone!",5158,21,NO ,AUS,AUS,,0,0
+3,10,1,15:00,3600,,,AUS,23,"Kickoff of 72 yards. Returned by Moreno, V. for 23 yards.",5158,21,NO ,AUS,AUS,77,0,0
+4,10,1,14:52,3592,1,10,AUS,23,"Rush by Mendonca, M. for 5 yds. Tackle by Adams, X..",5158,21,NO ,AUS,AUS,77,0,0
+5,10,1,14:33,3573,2,5,AUS,28,"Rush by Mendonca, M. for a short gain. Tackle by Faux, B..",5158,21,NO ,AUS,AUS,72,0,0
+6,10,1,14:21,3561,3,5,AUS,28,"Rush by Mendonca, M. for a short gain. Tackle by Adams, X..",5158,21,NO ,AUS,AUS,72,0,0
+7,8,1,14:07,3547,4,5,NO ,28,"Punt by Crisco, A. of 50 yards. No return.",5158,21,NO ,AUS,NO ,72,0,0
+8,8,1,13:58,3538,1,10,NO ,21,"Rush by Toriki, M. for 10 yds. Tackle by Moreno, V..",5158,21,NO ,AUS,NO ,79,0,0
+9,8,1,13:31,3511,1,10,NO ,31,"Pass by Francisco, S. to Gump, F. was dropped! Incomplete.",5158,21,NO ,AUS,NO ,69,0,0
+10,8,1,13:25,3505,2,10,NO ,31,"Pass by Francisco, S., complete to Toriki, M. for 1 yds. Tackle by Summers (R), H..",5158,21,NO ,AUS,NO ,69,0,0
+11,8,1,12:47,3467,3,9,NO ,32,"Pass by Francisco, S., complete to Gump, F. for 42 yds. Tackle by Edmond, H..",5158,21,NO ,AUS,NO ,68,0,0
+12,8,1,11:32,3392,1,10,AUS,25,"Pass by Francisco, S., complete to McCormick, A. for 25 yds.",5158,21,NO ,AUS,NO ,25,0,0
+13,8,1,10:38,3338,,,,,TOUCHDOWN! (Prohaska kick good),5158,21,NO ,AUS,NO ,,0,7
+14,8,1,10:38,3338,,,NO ,30,"Prohaska, H. kicks off.",5158,21,NO ,AUS,NO ,70,0,7
+15,10,1,10:38,3338,,,,,The kick sails into the endzone.,5158,21,NO ,AUS,AUS,,0,7
+16,10,1,10:38,3338,,,,,"Lavelle Jr., D. takes it out of the endzone!",5158,21,NO ,AUS,AUS,,0,7
+17,10,1,10:38,3338,,,AUS,13,"Kickoff of 75 yards. Returned by Lavelle Jr., D. for 13 yards.",5158,21,NO ,AUS,AUS,87,0,7
+18,10,1,10:31,3331,1,10,AUS,13,"Rush by Mendonca, M. for 6 yds. Tackle by Adams, X..",5158,21,NO ,AUS,AUS,87,0,7
+19,10,1,10:14,3314,2,4,AUS,19,"Rush by Cole, E. for 5 yds. Tackle by Slothface, J..",5158,21,NO ,AUS,AUS,81,0,7
+20,10,1,9:48,3288,1,10,AUS,24,"Rush by Mendonca, M. for 4 yds. Tackle by Slothface, J..",5158,21,NO ,AUS,AUS,76,0,7
+21,10,1,9:25,3265,2,6,AUS,28,"Pass by Cole, E. to Larson, P. falls incomplete.",5158,21,NO ,AUS,AUS,72,0,7
+22,10,1,9:20,3260,3,6,AUS,28,"Cole, E. SACKED by Mason Blaylock - FS for -6 yds.",5158,21,NO ,AUS,AUS,72,0,7
+23,8,1,8:50,3230,4,12,NO ,22,"Punt by Crisco, A. of 61 yards. No return.",5158,21,NO ,AUS,NO ,78,0,7
+24,8,1,8:43,3223,1,10,NO ,16,"Pass by Francisco, S., to McCormick, A.. INTERCEPTION by Okura, T. at the NO - 26 yard line and returned for 27 yards.",5158,21,NO ,AUS,NO ,84,0,7
+25,10,1,8:17,3197,,,,,TOUCHDOWN! (Crisco kick good),5158,21,NO ,AUS,AUS,,7,7
+26,10,1,8:17,3197,,,AUS,30,"Crisco, A. kicks off. A booming kick.",5158,21,NO ,AUS,AUS,70,7,7
+27,8,1,8:17,3197,,,,,The kick sails into the endzone.,5158,21,NO ,AUS,NO ,,7,7
+28,8,1,8:17,3197,,,,,"Gump, F. takes it out of the endzone!",5158,21,NO ,AUS,NO ,,7,7
+29,8,1,8:17,3197,,,,,"Gump, F. takes it down the middle.",5158,21,NO ,AUS,NO ,,7,7
+30,8,1,8:17,3197,,,,,"Gump, F. is finally brought down. A 38 yard return.",5158,21,NO ,AUS,NO ,,7,7
+31,8,1,8:12,3192,1,10,NO ,38,"Rush by Gump, F. for 8 yds. Tackle by Edmond, H..",5158,21,NO ,AUS,NO ,62,7,7
+32,8,1,7:51,3171,2,2,NO ,46,"Pass by Francisco, S., complete to Podolak, J. for 15 yds. Tackle by Jensen, C..",5158,21,NO ,AUS,NO ,54,7,7
+33,8,1,7:00,3120,1,10,AUS,38,"Pass by Francisco, S. to Podolak, J. was dropped! Incomplete.",5158,21,NO ,AUS,NO ,38,7,7
+34,8,1,6:57,3117,2,20,AUS,48,"Second Line Penalty on Room, W.: Illegal use of Hands.",5158,21,NO ,AUS,NO ,48,7,7
+35,8,1,6:26,3086,2,20,AUS,48,"Pass by Francisco, S., complete to Toriki, M. for 34 yds. Tackle by Sexjoke, A..",5158,21,NO ,AUS,NO ,48,7,7
+36,8,1,5:22,3022,1,10,AUS,14,"Pass by Francisco, S. to Gump, F. falls incomplete.",5158,21,NO ,AUS,NO ,14,7,7
+37,8,1,5:19,3019,2,10,AUS,14,"Pass by Francisco, S. to McCormick, A. falls incomplete.",5158,21,NO ,AUS,NO ,14,7,7
+38,8,1,5:15,3015,3,10,AUS,14,"Pass by Francisco, S., complete to McCormick, A. for 8 yds. Tackle by Moreno, V..",5158,21,NO ,AUS,NO ,14,7,7
+39,8,1,4:37,2977,4,2,AUS,6,"23 yard FG by Prohaska, H. is good.",5158,21,NO ,AUS,NO ,6,7,10
+40,8,1,4:37,2977,,,NO ,30,"Prohaska, H. kicks off.",5158,21,NO ,AUS,NO ,70,7,10
+41,10,1,4:37,2977,,,AUS,30,"Kickoff of 67 yards. Returned by Moreno, V. for 27 yards.",5158,21,NO ,AUS,AUS,70,7,10
+42,10,1,4:32,2972,1,10,AUS,30,"Rush by Mendonca, M. for 7 yds. Tackle by Blaylock, M..",5158,21,NO ,AUS,AUS,70,7,10
+43,10,1,4:11,2951,2,3,AUS,37,"Rush by Mendonca, M. for 3 yds. Tackle by Ironside, B..",5158,21,NO ,AUS,AUS,63,7,10
+44,10,1,4:00,2940,1,15,AUS,35,"Copperheads Penalty on Clay (R), J.: Delay of Game.",5158,21,NO ,AUS,AUS,65,7,10
+45,10,1,4:00,2940,1,15,AUS,35,"Rush by Mendonca, M. for 4 yds. Tackle by Andrews, J..",5158,21,NO ,AUS,AUS,65,7,10
+46,10,1,3:32,2912,2,11,AUS,39,"Pass by Cole, E., complete to Larson, P. for 16 yds. Tackle by Andrews, J..",5158,21,NO ,AUS,AUS,61,7,10
+47,10,1,2:49,2869,1,10,NO ,45,"Pass by Cole, E. to Tidwell, R. was dropped! Incomplete.",5158,21,NO ,AUS,AUS,45,7,10
+48,10,1,2:46,2866,2,10,NO ,45,"Pass by Cole, E., complete to Tidwell, R. for 8 yds. Tackle by Taylor, D..",5158,21,NO ,AUS,AUS,45,7,10
+49,10,1,2:17,2837,3,2,NO ,37,"Pass by Cole, E., complete to Clay (R), J. for 8 yds. Tackle by Blaylock, M..",5158,21,NO ,AUS,AUS,37,7,10
+50,10,1,1:52,2812,1,10,NO ,29,"Rush by Mendonca, M. for 7 yds. Tackle by Blaylock, M..",5158,21,NO ,AUS,AUS,29,7,10
+51,10,1,1:31,2791,2,3,NO ,22,"Pass by Cole, E., complete to Tidwell, R. for 6 yds. Tackle by Taylor, D..",5158,21,NO ,AUS,AUS,22,7,10
+52,10,1,1:08,2768,1,10,NO ,16,"Rush by Mendonca, M. for a short gain. Tackle by Ironside, B..",5158,21,NO ,AUS,AUS,16,7,10
+53,10,1,0:58,2758,2,10,NO ,16,"Pass by Cole, E. to Blockit, I. was dropped! Incomplete.",5158,21,NO ,AUS,AUS,16,7,10
+54,10,1,0:54,2754,3,10,NO ,16,"Pass by Cole, E. to Mendonca, M. was dropped! Incomplete.",5158,21,NO ,AUS,AUS,16,7,10
+55,10,1,0:48,2748,4,10,NO ,16,"33 yard FG by Crisco, A. is good.",5158,21,NO ,AUS,AUS,16,10,10
+56,10,1,0:48,2748,,,AUS,30,"Crisco, A. kicks off.",5158,21,NO ,AUS,AUS,70,10,10
+57,8,1,0:48,2748,,,,,"Gump, F. takes it down the middle.",5158,21,NO ,AUS,NO ,,10,10
+58,8,1,0:48,2748,,,,,"Gump, F. is finally brought down. A 37 yard return.",5158,21,NO ,AUS,NO ,,10,10
+59,8,1,0:38,2738,1,10,NO ,46,"Rush by Toriki, M. for 2 yds. Tackle by Edmond, H..",5158,21,NO ,AUS,NO ,54,10,10
+60,8,1,0:21,2721,2,8,NO ,48,"Rush by Francisco, S. for -2 yds. Tackle by Fassingit, H..",5158,21,NO ,AUS,NO ,52,10,10
+61,8,1,0:06,2706,3,10,NO ,46,"Pass by Francisco, S. to Gump, F. was dropped! Incomplete.",5158,21,NO ,AUS,NO ,54,10,10
+62,10,1,0:02,2702,4,10,AUS,46,"Punt by Prohaska, H. of 37 yards. No return.",5158,21,NO ,AUS,AUS,54,10,10
+63,10,2,15:00,2700,1,10,AUS,17,"Rush by Mendonca, M. for 2 yds. Tackle by Slothface, J..",5158,21,NO ,AUS,AUS,83,10,10
+64,10,2,14:51,2691,2,8,AUS,19,"Pass by Cole, E., complete to Tidwell, R. for 34 yds. Tackle by Adams, X..",5158,21,NO ,AUS,AUS,81,10,10
+65,10,2,13:45,2625,1,10,NO ,47,"Rush by Mendonca, M. for 5 yds. Tackle by Bode, Q..",5158,21,NO ,AUS,AUS,47,10,10
+66,10,2,13:29,2609,2,5,NO ,42,"Pass by Cole, E., complete to Clay (R), J. for 10 yds. Tackle by Adams, X..",5158,21,NO ,AUS,AUS,42,10,10
+67,10,2,12:56,2576,1,10,NO ,32,"Pass by Cole, E., complete to Tidwell, R. for 25 yds. Tackle by Taylor, D..",5158,21,NO ,AUS,AUS,32,10,10
+68,10,2,12:11,2531,1,7,NO ,7,"Pass by Cole, E. to Larson, P. was dropped! Incomplete.",5158,21,NO ,AUS,AUS,7,10,10
+69,10,2,12:06,2526,2,22,NO ,22,"Copperheads Penalty on A'Moderateamount, L.: Chop Block.",5158,21,NO ,AUS,AUS,22,10,10
+70,10,2,11:46,2506,2,22,NO ,22,"Rush by Mendonca, M. for 6 yds. Tackle by Adams, X..",5158,21,NO ,AUS,AUS,22,10,10
+71,10,2,11:21,2481,3,16,NO ,16,"Pass by Cole, E. to Tidwell, R. falls incomplete.",5158,21,NO ,AUS,AUS,16,10,10
+72,10,2,11:14,2474,4,16,NO ,16,"33 yard FG by Crisco, A. is good.",5158,21,NO ,AUS,AUS,16,13,10
+73,10,2,11:14,2474,,,AUS,30,"Crisco, A. kicks off.",5158,21,NO ,AUS,AUS,70,13,10
+74,8,2,11:14,2474,,,,,The kick sails into the endzone.,5158,21,NO ,AUS,NO ,,13,10
+75,8,2,11:14,2474,,,,,"Gump, F. takes it out of the endzone!",5158,21,NO ,AUS,NO ,,13,10
+76,8,2,11:14,2474,,,,,"Gump, F. takes it down the middle.",5158,21,NO ,AUS,NO ,,13,10
+77,8,2,11:14,2474,,,,,"Gump, F. is finally brought down. A 31 yard return.",5158,21,NO ,AUS,NO ,,13,10
+78,8,2,11:07,2467,1,10,NO ,31,"Rush by Gump, F. for 16 yds. Tackle by Okura, T..",5158,21,NO ,AUS,NO ,69,13,10
+79,8,2,10:31,2431,1,10,NO ,47,"Rush by Toriki, M. for 6 yds. Tackle by Edmond, H..",5158,21,NO ,AUS,NO ,53,13,10
+80,8,2,10:12,2412,2,4,AUS,46,"Pass by Francisco, S. to McCormick, A. falls incomplete.",5158,21,NO ,AUS,NO ,46,13,10
+81,8,2,10:08,2408,3,4,AUS,46,"Rush by Gump, F. for 9 yds. Tackle by Edmond, H..",5158,21,NO ,AUS,NO ,46,13,10
+82,8,2,9:43,2383,1,10,AUS,37,"Pass by Francisco, S. to Jones, B. was dropped! Incomplete.",5158,21,NO ,AUS,NO ,37,13,10
+83,8,2,9:38,2378,2,10,AUS,37,"Pass by Francisco, S., complete to McCormick, A. for 7 yds. Tackle by Lavelle Jr., D..",5158,21,NO ,AUS,NO ,37,13,10
+84,8,2,8:55,2335,3,13,AUS,40,"Second Line Penalty on Podolak, J.: Tripping.",5158,21,NO ,AUS,NO ,40,13,10
+85,8,2,8:39,2319,3,13,AUS,40,"Pass by Francisco, S. to Jones, B. falls incomplete.",5158,21,NO ,AUS,NO ,40,13,10
+86,10,2,8:32,2312,4,13,NO ,40,"Punt by Prohaska, H. of 40 yards. Touchback.",5158,21,NO ,AUS,AUS,40,13,10
+87,10,2,8:29,2309,1,10,AUS,20,"Rush by Mendonca, M. for 2 yds. Tackle by Adams, X..",5158,21,NO ,AUS,AUS,80,13,10
+88,10,2,8:13,2293,2,8,AUS,22,"Rush by Mendonca, M. for 1 yds. Tackle by Ironside, B..",5158,21,NO ,AUS,AUS,78,13,10
+89,10,2,8:04,2284,3,7,AUS,23,"Pass by Cole, E., complete to Larson, P. for 10 yds. Tackle by Andrews, J..",5158,21,NO ,AUS,AUS,77,13,10
+90,10,2,7:33,2253,1,10,AUS,33,"Rush by Mendonca, M. for 5 yds. Tackle by Slothface, J..",5158,21,NO ,AUS,AUS,67,13,10
+91,10,2,7:05,2225,2,5,AUS,38,"Pass by Cole, E., complete to Clay (R), J. for 13 yds. Tackle by Adams, X..",5158,21,NO ,AUS,AUS,62,13,10
+92,10,2,6:25,2185,1,10,NO ,49,"Rush by Mendonca, M. for 10 yds. Tackle by Bode, Q..",5158,21,NO ,AUS,AUS,49,13,10
+93,10,2,5:55,2155,1,10,NO ,39,"Pass by Cole, E., complete to Mendonca, M. for 2 yds. Tackle by Bode, Q..",5158,21,NO ,AUS,AUS,39,13,10
+94,10,2,5:24,2124,2,8,NO ,37,"Pass by Cole, E., complete to Tidwell, R. for 26 yds. Tackle by Taylor, D..",5158,21,NO ,AUS,AUS,37,13,10
+95,10,2,4:39,2079,1,10,NO ,11,"Pass by Cole, E. to Tidwell, R. was dropped! Incomplete.",5158,21,NO ,AUS,AUS,11,13,10
+96,10,2,4:33,2073,2,10,NO ,11,"Pass by Cole, E. to Clay (R), J. is incomplete. Broken up by Bode, Q..",5158,21,NO ,AUS,AUS,11,13,10
+97,10,2,4:29,2069,3,10,NO ,11,"Pass by Cole, E. to Mendonca, M. falls incomplete.",5158,21,NO ,AUS,AUS,11,13,10
+98,10,2,4:22,2062,4,10,NO ,11,"28 yard FG by Crisco, A. is good.",5158,21,NO ,AUS,AUS,11,16,10
+99,10,2,4:22,2062,,,AUS,30,"Crisco, A. kicks off.",5158,21,NO ,AUS,AUS,70,16,10
+100,8,2,4:22,2062,,,NO ,34,"Kickoff of 65 yards. Returned by Gump, F. for 29 yards.",5158,21,NO ,AUS,NO ,66,16,10
+101,8,2,4:16,2056,1,10,NO ,34,"Pass by Francisco, S. to Podolak, J. falls incomplete.",5158,21,NO ,AUS,NO ,66,16,10
+102,8,2,4:13,2053,2,10,NO ,34,"Rush by Toriki, M. for 7 yds. Tackle by Summers (R), H..",5158,21,NO ,AUS,NO ,66,16,10
+103,8,2,3:45,2025,3,3,NO ,41,"Rush by Toriki, M. for 6 yds. Tackle by Summers (R), H..",5158,21,NO ,AUS,NO ,59,16,10
+104,8,2,3:21,2001,1,10,NO ,47,"Rush by Gump, F. for 0 yds. Tackle by Fassingit, H..",5158,21,NO ,AUS,NO ,53,16,10
+105,8,2,3:05,1985,2,10,NO ,47,"Pass by Francisco, S., complete to McCormick, A. for 7 yds. Tackle by Lavelle Jr., D..",5158,21,NO ,AUS,NO ,53,16,10
+106,8,2,2:25,1945,3,3,AUS,46,"Rush by Gump, F. for a short gain. Tackle by Summers (R), H..",5158,21,NO ,AUS,NO ,46,16,10
+107,10,2,2:05,1925,4,3,NO ,46,"Punt by Prohaska, H. of 46 yards. Touchback.",5158,21,NO ,AUS,AUS,46,16,10
+108,10,2,2:02,1922,1,10,AUS,20,"Pass by Cole, E. to Mendonca, M. is incomplete. Broken up by Slothface, J..",5158,21,NO ,AUS,AUS,80,16,10
+109,10,2,1:59,1919,2,10,AUS,20,"Rush by Mendonca, M. for 7 yds. Tackle by Slothface, J..",5158,21,NO ,AUS,AUS,80,16,10
+110,10,2,1:34,1894,3,3,AUS,27,"Rush by Mendonca, M. for 1 yds. Tackle by Ironside, B..",5158,21,NO ,AUS,AUS,73,16,10
+111,8,2,1:12,1872,4,2,NO ,28,"Punt by Crisco, A. of 72 yards. Touchback.",5158,21,NO ,AUS,NO ,72,16,10
+112,8,2,1:07,1867,1,10,NO ,20,"Pass by Francisco, S. to Gump, F. was dropped! Incomplete.",5158,21,NO ,AUS,NO ,80,16,10
+113,8,2,1:04,1864,2,10,NO ,20,"Francisco, S. SACKED by Holden Summers (R) - LB for -6 yds.",5158,21,NO ,AUS,NO ,80,16,10
+114,8,2,1:04,1864,3,16,NO ,14,New Orleans Second Line : Timeout,5158,21,NO ,AUS,NO ,86,16,10
+115,8,2,0:44,1844,3,16,NO ,14,"Pass by Francisco, S., complete to McCormick, A. for 24 yds. Tackle by Sexjoke, A..",5158,21,NO ,AUS,NO ,86,16,10
+116,8,2,0:44,1844,1,10,NO ,38,New Orleans Second Line : Timeout,5158,21,NO ,AUS,NO ,62,16,10
+117,8,2,0:01,1801,1,10,NO ,38,"Francisco, S. throws the ball away to avoid the sack.",5158,21,NO ,AUS,NO ,62,16,10
+118,10,3,15:00,1800,,,AUS,30,"Crisco, A. kicks off.",5158,21,NO ,AUS,AUS,70,16,10
+119,8,3,15:00,1800,,,,,The kick sails into the endzone.,5158,21,NO ,AUS,NO ,,16,10
+120,8,3,15:00,1800,,,,,"Taylor, D. takes it out of the endzone!",5158,21,NO ,AUS,NO ,,16,10
+121,8,3,15:00,1800,,,,,"Taylor, D. takes it down the left side.",5158,21,NO ,AUS,NO ,,16,10
+122,8,3,15:00,1800,,,,,"Taylor, D. has blockers in front of him.",5158,21,NO ,AUS,NO ,,16,10
+123,8,3,15:00,1800,,,,,A 44 yard return.,5158,21,NO ,AUS,NO ,,16,10
+124,8,3,14:50,1790,1,10,NO ,44,"Rush by Francisco, S. for 4 yds. Tackle by Sexjoke, A..",5158,21,NO ,AUS,NO ,56,16,10
+125,8,3,14:22,1762,2,6,NO ,48,"Pass by Francisco, S., complete to Podolak, J. for 50 yds. Tackle by Okura, T..",5158,21,NO ,AUS,NO ,52,16,10
+126,8,3,12:44,1664,1,1,AUS,1,Rush by Forrest Gump for 1 yds.,5158,21,NO ,AUS,NO ,1,16,10
+127,8,3,12:30,1650,,,,,TOUCHDOWN! (Prohaska kick good),5158,21,NO ,AUS,NO ,,16,17
+128,8,3,12:30,1650,,,NO ,30,"Prohaska, H. kicks off.",5158,21,NO ,AUS,NO ,70,16,17
+129,10,3,12:30,1650,,,,,"Lavelle Jr., D. takes it down the left side.",5158,21,NO ,AUS,AUS,,16,17
+130,10,3,12:30,1650,,,,,"Lavelle Jr., D. has blockers in front of him.",5158,21,NO ,AUS,AUS,,16,17
+131,10,3,12:30,1650,,,,,A 44 yard return.,5158,21,NO ,AUS,AUS,,16,17
+132,10,3,12:23,1643,1,10,AUS,48,"Cole, E. throws the ball away to avoid the sack.",5158,21,NO ,AUS,AUS,52,16,17
+133,10,3,12:04,1624,2,10,AUS,48,"Pass by Cole, E. to Mendonca, M. was dropped! Incomplete.",5158,21,NO ,AUS,AUS,52,16,17
+134,10,3,11:57,1617,3,10,AUS,48,"Pass by Cole, E., complete to Tidwell, R. for 10 yds. Tackle by Taylor, D..",5158,21,NO ,AUS,AUS,52,16,17
+135,10,3,11:26,1586,1,10,NO ,42,"Pass by Cole, E., complete to Mendonca, M. for 6 yds. Tackle by Bode, Q..",5158,21,NO ,AUS,AUS,42,16,17
+136,10,3,10:47,1547,2,4,NO ,36,"Cole, E. SACKED by Johnny Slothface - LB for -7 yds.",5158,21,NO ,AUS,AUS,36,16,17
+137,10,3,10:21,1521,3,11,NO ,43,"Pass by Cole, E. to Mendonca, M. was dropped! Incomplete.",5158,21,NO ,AUS,AUS,43,16,17
+138,8,3,10:16,1516,4,11,AUS,43,"Punt by Crisco, A. of 43 yards. Touchback.",5158,21,NO ,AUS,NO ,43,16,17
+139,8,3,10:11,1511,1,10,NO ,20,"Rush by Gump, F. for 6 yds. Tackle by Edmond, H..",5158,21,NO ,AUS,NO ,80,16,17
+140,8,3,9:34,1474,2,4,NO ,26,"Rush by Gump, F. for a short gain. Tackle by McTackle (R), R..",5158,21,NO ,AUS,NO ,74,16,17
+141,8,3,9:18,1458,3,9,NO ,21,"Second Line Penalty on Brew, S.: False Start.",5158,21,NO ,AUS,NO ,79,16,17
+142,8,3,9:18,1458,3,9,NO ,21,"Pass by Francisco, S. to Jones, B. is incomplete. Broken up by Jensen, C..",5158,21,NO ,AUS,NO ,79,16,17
+143,10,3,9:12,1452,4,9,AUS,21,"Punt by Prohaska, H. of 45 yards.",5158,21,NO ,AUS,AUS,79,16,17
+144,10,3,9:12,1452,,,,,"Returned by Lavelle Jr., D. for 11 yards.",5158,21,NO ,AUS,AUS,,16,17
+145,10,3,9:00,1440,1,10,AUS,45,"Rush by Mendonca, M. for 11 yds. Tackle by Blaylock, M..",5158,21,NO ,AUS,AUS,55,16,17
+146,10,3,8:35,1415,1,10,NO ,44,"Rush by Mendonca, M. for 1 yds. Tackle by Ironside, B..",5158,21,NO ,AUS,AUS,44,16,17
+147,10,3,8:19,1399,2,9,NO ,43,"Pass by Cole, E., complete to Clay (R), J. for 18 yds. Tackle by Taylor, D..",5158,21,NO ,AUS,AUS,43,16,17
+148,10,3,7:38,1358,1,10,NO ,25,"Rush by Mendonca, M. for 1 yds. Tackle by Ironside, B..",5158,21,NO ,AUS,AUS,25,16,17
+149,10,3,7:24,1344,2,9,NO ,24,"Rush by Cole, E. for a short gain. Tackle by Tu'inukuafe, B..",5158,21,NO ,AUS,AUS,24,16,17
+150,10,3,7:02,1322,3,9,NO ,24,"Pass by Cole, E. to Mendonca, M. falls incomplete.",5158,21,NO ,AUS,AUS,24,16,17
+151,10,3,6:59,1319,4,9,NO ,24,"41 yard FG by Crisco, A. is good.",5158,21,NO ,AUS,AUS,24,19,17
+152,10,3,6:59,1319,,,AUS,30,"Crisco, A. kicks off.",5158,21,NO ,AUS,AUS,70,19,17
+153,8,3,6:59,1319,,,,,The kick sails into the endzone.,5158,21,NO ,AUS,NO ,,19,17
+154,8,3,6:59,1319,,,,,"Gump, F. takes it out of the endzone!",5158,21,NO ,AUS,NO ,,19,17
+155,8,3,6:59,1319,,,NO ,18,"Kickoff of 76 yards. Returned by Gump, F. for 18 yards.",5158,21,NO ,AUS,NO ,82,19,17
+156,8,3,6:55,1315,1,10,NO ,18,"Pass by Francisco, S., complete to Gump, F. for 8 yds. Tackle by Moreno, V..",5158,21,NO ,AUS,NO ,82,19,17
+157,8,3,6:17,1277,2,2,NO ,26,"Francisco, S. SACKED by Hal Fassingit - DE for -10 yds.",5158,21,NO ,AUS,NO ,74,19,17
+158,8,3,5:51,1251,3,7,NO ,21,"Copperheads Penalty on Edmond, H.: Offsides.",5158,21,NO ,AUS,NO ,79,19,17
+159,8,3,5:51,1251,3,7,NO ,21,"Pass by Francisco, S., complete to Toriki, M. for 4 yds. Tackle by Sexjoke, A..",5158,21,NO ,AUS,NO ,79,19,17
+160,10,3,5:21,1221,4,3,AUS,25,"Punt by Prohaska, H. of 53 yards. No return.",5158,21,NO ,AUS,AUS,75,19,17
+161,10,3,5:13,1213,1,10,AUS,21,"Pass by Cole, E. to Blockit, I. was dropped! Incomplete.",5158,21,NO ,AUS,AUS,79,19,17
+162,10,3,5:10,1210,2,10,AUS,21,"Pass by Cole, E., complete to Blockit, I. for 1 yds. Tackle by Bode, Q..",5158,21,NO ,AUS,AUS,79,19,17
+163,10,3,4:37,1177,3,9,AUS,22,"Pass by Cole, E. to Gaines, N. falls incomplete.",5158,21,NO ,AUS,AUS,78,19,17
+164,8,3,4:33,1173,4,9,NO ,22,"Punt by Crisco, A. of 46 yards.",5158,21,NO ,AUS,NO ,78,19,17
+165,8,3,4:33,1173,,,,,"Returned by Gump, F. for 6 yards.",5158,21,NO ,AUS,NO ,,19,17
+166,8,3,4:22,1162,1,10,NO ,37,"Francisco, S. SACKED by Holden Summers (R) - LB for -7 yds.",5158,21,NO ,AUS,NO ,63,19,17
+167,8,3,3:43,1123,2,17,NO ,30,"Pass by Francisco, S., complete to Podolak, J. for 10 yds. Tackle by Jensen, C..",5158,21,NO ,AUS,NO ,70,19,17
+168,8,3,2:56,1076,3,7,NO ,40,"Pass by Francisco, S., complete to Toriki, M. for 8 yds. Tackle by Okura, T..",5158,21,NO ,AUS,NO ,60,19,17
+169,8,3,2:19,1039,1,10,AUS,41,"Copperheads Penalty on Lavelle Jr., D.: Tripping.",5158,21,NO ,AUS,NO ,41,19,17
+170,8,3,2:07,1027,1,10,AUS,41,"Rush by Gump, F. for 6 yds. Tackle by Edmond, H..",5158,21,NO ,AUS,NO ,41,19,17
+171,8,3,1:48,1008,2,4,AUS,35,"Pass by Francisco, S. to Podolak, J. falls incomplete.",5158,21,NO ,AUS,NO ,35,19,17
+172,8,3,1:43,1003,1,10,AUS,20,"Copperheads Penalty on McTackle (R), R.: Facemask.",5158,21,NO ,AUS,NO ,20,19,17
+173,8,3,1:15,975,1,10,AUS,20,"Rush by Toriki, M. for 3 yds. Tackle by Sexjoke, A..",5158,21,NO ,AUS,NO ,20,19,17
+174,8,3,0:52,952,1,9,AUS,9,"Copperheads Penalty on McTackle (R), R.: Tripping.",5158,21,NO ,AUS,NO ,9,19,17
+175,8,3,0:20,920,1,9,AUS,9,"Pass by Francisco, S., complete to Jones, B. for 7 yds. Tackle by Jensen, C..",5158,21,NO ,AUS,NO ,9,19,17
+176,8,3,0:00,900,2,2,AUS,2,Rush by Forrest Gump for 2 yds.,5158,21,NO ,AUS,NO ,2,19,24
+177,8,3,0:00,900,,,,,TOUCHDOWN! (Prohaska kick good),5158,21,NO ,AUS,NO ,,19,24
+178,8,3,0:00,900,,,NO ,30,"Prohaska, H. kicks off.",5158,21,NO ,AUS,NO ,70,19,24
+179,10,3,0:00,900,,,,,The kick sails into the endzone.,5158,21,NO ,AUS,AUS,,19,24
+180,10,3,0:00,900,,,,,"Lavelle Jr., D. takes it out of the endzone!",5158,21,NO ,AUS,AUS,,19,24
+181,10,3,0:00,900,,,AUS,9,"Kickoff of 77 yards. Returned by Lavelle Jr., D. for 9 yards.",5158,21,NO ,AUS,AUS,91,19,24
+182,10,4,15:00,900,1,10,AUS,9,"Rush by Mendonca, M. for a short gain. Tackle by Tu'inukuafe, B..",5158,21,NO ,AUS,AUS,91,19,24
+183,10,4,14:49,889,2,10,AUS,9,"Rush by Mendonca, M. for 2 yds. Tackle by Adams, X..",5158,21,NO ,AUS,AUS,91,19,24
+184,10,4,14:24,864,3,8,AUS,11,"Pass by Cole, E., complete to Blockit, I. for a short gain. Tackle by Adams, X..",5158,21,NO ,AUS,AUS,89,19,24
+185,8,4,13:44,824,4,8,NO ,11,"Punt by Crisco, A. of 34 yards. No return.",5158,21,NO ,AUS,NO ,89,19,24
+186,8,4,13:36,816,1,10,AUS,45,"Rush by Gump, F. for 4 yds. Tackle by Edmond, H..",5158,21,NO ,AUS,NO ,45,19,24
+187,8,4,13:10,790,2,6,AUS,41,"Pass by Francisco, S., complete to Jones, B. for 12 yds. Tackle by Jensen, C..",5158,21,NO ,AUS,NO ,41,19,24
+188,8,4,12:26,746,1,10,AUS,29,"Pass by Francisco, S., complete to Gump, F. for 29 yds.",5158,21,NO ,AUS,NO ,29,19,24
+189,8,4,11:40,700,,,,,TOUCHDOWN! (Prohaska kick good),5158,21,NO ,AUS,NO ,,19,31
+190,8,4,11:40,700,,,NO ,30,"Prohaska, H. kicks off.",5158,21,NO ,AUS,NO ,70,19,31
+191,10,4,11:40,700,,,,,The kick sails into the endzone.,5158,21,NO ,AUS,AUS,,19,31
+192,10,4,11:40,700,,,,,"Moreno, V. takes it out of the endzone!",5158,21,NO ,AUS,AUS,,19,31
+193,10,4,11:40,700,,,AUS,27,"Kickoff of 75 yards. Returned by Moreno, V. for 27 yards.",5158,21,NO ,AUS,AUS,73,19,31
+194,10,4,11:33,693,1,10,AUS,27,"Cole, E. SACKED by Ben Tu'inukuafe - DE for -11 yds.",5158,21,NO ,AUS,AUS,73,19,31
+195,10,4,11:06,666,2,21,AUS,16,"Cole, E. throws the ball away to avoid the sack.",5158,21,NO ,AUS,AUS,84,19,31
+196,10,4,10:47,647,3,21,AUS,16,"Pass by Cole, E., complete to Mendonca, M. for 4 yds. Tackle by Blaylock, M..",5158,21,NO ,AUS,AUS,84,19,31
+197,8,4,10:08,608,4,17,NO ,20,"Punt by Crisco, A. of 49 yards. No return.",5158,21,NO ,AUS,NO ,80,19,31
+198,8,4,10:00,600,1,10,NO ,30,"Rush by Gump, F. for 0 yds. Tackle by Idlewyld, K..",5158,21,NO ,AUS,NO ,70,19,31
+199,8,4,9:41,581,2,10,NO ,30,"Pass by Francisco, S., complete to Podolak, J. for 8 yds. Tackle by Lavelle Jr., D..",5158,21,NO ,AUS,NO ,70,19,31
+200,8,4,9:05,545,1,10,NO ,43,"Copperheads Penalty on Kuusela, G.: Offsides.",5158,21,NO ,AUS,NO ,57,19,31
+201,8,4,9:05,545,1,10,NO ,43,"Rush by Gump, F. for 9 yds. Tackle by Moreno, V..",5158,21,NO ,AUS,NO ,57,19,31
+202,8,4,8:30,510,2,1,AUS,47,"Pass by Francisco, S., complete to McCormick, A. for 13 yds. Tackle by Okura, T..",5158,21,NO ,AUS,NO ,47,19,31
+203,8,4,7:51,471,1,10,AUS,34,"Pass by Francisco, S. to Jones, B. was dropped! Incomplete.",5158,21,NO ,AUS,NO ,34,19,31
+204,8,4,7:48,468,2,10,AUS,34,"Pass by Francisco, S., complete to McCormick, A. for 5 yds. Tackle by Edmond, H..",5158,21,NO ,AUS,NO ,34,19,31
+205,8,4,7:18,438,3,5,AUS,29,"Rush by Gump, F. for a short gain. Tackle by Edmond, H..",5158,21,NO ,AUS,NO ,29,19,31
+206,8,4,6:47,407,4,5,AUS,29,"46 yard FG by Prohaska, H. is good.",5158,21,NO ,AUS,NO ,29,19,34
+207,8,4,6:47,407,,,NO ,30,"Prohaska, H. kicks off.",5158,21,NO ,AUS,NO ,70,19,34
+208,10,4,6:47,407,,,AUS,12,"Kickoff of 62 yards. Returned by Moreno, V. for 4 yards.",5158,21,NO ,AUS,AUS,88,19,34
+209,10,4,6:45,405,1,10,AUS,12,"Pass by Cole, E., complete to Larson, P. for 16 yds. Tackle by Andrews, J..",5158,21,NO ,AUS,AUS,88,19,34
+210,10,4,6:06,366,1,10,AUS,28,"Rush by Mendonca, M. for 6 yds. Tackle by Bode, Q..",5158,21,NO ,AUS,AUS,72,19,34
+211,10,4,5:50,350,2,4,AUS,34,"Rush by Mendonca, M. for -1 yds. Tackle by Tu'inukuafe, B..",5158,21,NO ,AUS,AUS,66,19,34
+212,10,4,5:34,334,3,5,AUS,33,"Pass by Cole, E., complete to Gaines, N. for 44 yds. Tackle by Taylor, D..",5158,21,NO ,AUS,AUS,67,19,34
+213,10,4,4:28,268,1,10,NO ,23,"Rush by Mendonca, M. for 1 yds. Tackle by Tu'inukuafe, B..",5158,21,NO ,AUS,AUS,23,19,34
+214,10,4,4:11,251,2,9,NO ,22,"Rush by Mendonca, M. for a short gain. Tackle by Ironside, B..",5158,21,NO ,AUS,AUS,22,19,34
+215,10,4,4:00,240,3,9,NO ,22,"Pass by Cole, E. to Mendonca, M. was dropped! Incomplete.",5158,21,NO ,AUS,AUS,22,19,34
+216,10,4,3:57,237,4,9,NO ,22,"Pass by Cole, E., complete to Gaines, N. for 22 yds.",5158,21,NO ,AUS,AUS,22,19,34
+217,10,4,3:21,201,,,,,TOUCHDOWN! (Crisco kick good),5158,21,NO ,AUS,AUS,,26,34
+218,10,4,3:21,201,,,AUS,30,"Crisco, A. kicks off.",5158,21,NO ,AUS,AUS,70,26,34
+219,8,4,3:21,201,,,,,The kick sails into the endzone.,5158,21,NO ,AUS,NO ,,26,34
+220,8,4,3:21,201,,,,,"Taylor, D. takes it out of the endzone!",5158,21,NO ,AUS,NO ,,26,34
+221,8,4,3:21,201,,,,,"Taylor, D. takes it down the middle.",5158,21,NO ,AUS,NO ,,26,34
+222,8,4,3:21,201,,,,,"Taylor, D. is finally brought down. A 34 yard return.",5158,21,NO ,AUS,NO ,,26,34
+223,8,4,3:16,196,1,10,NO ,34,"Pass by Francisco, S. to Jones, B. falls incomplete.",5158,21,NO ,AUS,NO ,66,26,34
+224,8,4,3:13,193,2,10,NO ,34,"Francisco, S. throws the ball away to avoid the sack.",5158,21,NO ,AUS,NO ,66,26,34
+225,8,4,2:47,167,3,10,NO ,34,"Francisco, S. SACKED by Riles McTackle (R) - DT for -7 yds.",5158,21,NO ,AUS,NO ,66,26,34
+226,10,4,2:17,137,4,17,AUS,27,"Punt by Prohaska, H. of 41 yards. No return.",5158,21,NO ,AUS,AUS,73,26,34
+227,10,4,2:09,129,1,10,AUS,31,"Rush by Mendonca, M. for 0 yds. Tackle by Ironside, B..",5158,21,NO ,AUS,AUS,69,26,34
+228,10,4,2:09,129,2,10,AUS,31,Cole spikes the ball to stop the clock,5158,21,NO ,AUS,AUS,69,26,34
+229,10,4,1:53,113,3,10,AUS,31,"Pass by Cole, E. to Larson, P. is incomplete. Broken up by Andrews, J..",5158,21,NO ,AUS,AUS,69,26,34
+230,10,4,1:46,106,4,10,AUS,31,"Pass by Cole, E., complete to Larson, P. for 4 yds. Tackle by Andrews, J..",5158,21,NO ,AUS,AUS,69,26,34
+231,10,4,1:46,106,4,6,AUS,35,Turnover on downs.,5158,21,NO ,AUS,AUS,65,26,34
+232,8,4,1:25,85,1,10,AUS,35,"Rush by Toriki, M. for 17 yds. Tackle by Sexjoke, A..",5158,21,NO ,AUS,NO ,35,26,34
+233,8,4,0:39,39,1,10,AUS,18,"Rush by Gump, F. for 5 yds. Tackle by Sexjoke, A..",5158,21,NO ,AUS,NO ,18,26,34
+234,8,4,0:04,4,2,15,AUS,23,"Second Line Penalty on Jones, B.: Illegal block below the waist.",5158,21,NO ,AUS,NO ,23,26,34
