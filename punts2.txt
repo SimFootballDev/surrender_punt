@@ -1,0 +1,31 @@
+[align=center][img]https://i.imgur.com/PSTQtb3.png[/img]
+
+[size=x-large][font=Impact]Surrender Punts Update[/font][/size]
+[size=large][i]Surrender Punts since S19[/i][/size]
+[/align]
+
+Some of you might remember that after S18, I did an analysis on surrender punts (which you can view here, not on the forums - https://medium.com/the-specialist/an-analysis-on-fourth-down-decisions-and-surrender-punts-in-the-national-simulation-football-league-380a1485bfda). If you've never seen it before, I definitely recommend giving it a read - I go and describe a lot of the sim's decision making and list out all the punts that are worst than the worst NFL punt.
+
+Anyways, it's been a couple seasons since I've gone and updated that list, and I've gone in and made some corrections to problems I've found. Since S18 concluded, we've only had one new entry to this prestigious list - and boy is it a doozy.
+
+[hr]
+[align=center][size=medium][b]#1. Season 24, Week 8
+:liberty: @ :outlaws:[/b]
+[url=https://index.sim-football.com/ISFLS24/Boxscores/6138.html]Boxscore[/url][/size][/align]
+
+[b]Time:[/b] 4th Quarter, 2:52 remaining
+[b]Score:[/b] :liberty: 12 - 13 :outlaws:
+
+[b]Punting Team:[/b] :liberty:
+
+[b]Down and Distance:[/b] 4th and 2
+[b]Field Position:[/b] :outlaws: 32
+[b]Result:[/b]Punt by Hunt, K. of 32 yards. Touchback.
+[b]Final Score:[/b] :liberty: 12 - 13 :outlaws:
+
+Feast your eyes on the [b]new most cowardly punt in ISFL history[/b]. It has all the makings of the now #2 punt in that it is a 4th and 2 at the 32, but the severity of this punt is amplified by the fact that the Liberty are DOWN by 1! Like I said in the previous article - kickers in the ISFL have about an 80% success rate at that distance, and their rookie Karmichael Hunt had been 4/7 from outside 45 yards so far - including hitting a 40, 42, and [b]57 yarder [i]IN THIS VERY GAME[/i][/b]! Did the Liberty coaches think he was tired or something? The dude literally had not missed all day. Or maybe, you could go for it. Teams have had just over a 60% success rate in going for it in this situation, which would have allowed the Liberty to move closer and set up a better field goal while burning more clock. Either way, the logic here is absolutely baffling.
+
+So what happened after this? Well, Spike Suzuki was able to make a big sack on first down, but it was followed by Jay Cue hitting Jah Bur'Berry on a 38 yard pass to basically kill the game. Arizona was able to run the clock out afterwards. In the grand scheme of things, this game didn't mean much. The Liberty finished the year a dismal 3-13 and with the first overall pick pre-expansion, while Arizona finished 9-7 and tiebroken out of the S24 playoffs. Had Philly just gone with the field goal or gone for it on fourth down, they may have lost a spot on the draft order, while Arizona may have outright lost in the playoff race. A master tanking troll by the Liberty? Perhaps. But you play to win the game.
+
+[hr]
+Not going to post a link to the code this time, but instead I'd like to draw your attention to the [url=https://twitter.com/ISFL_surrender]ISFL Surrender Bot[/url]! Every week, the most cowardly punts in the league will be tweeted out after the index is posted. Also, I made a nice little look-up bot for all of the surrender punts in league history which you can add to your Discord by clicking [url=https://discord.com/oauth2/authorize?client_id=764161408698023957&scope=bot]THIS LINK[/url]. Have fun!
